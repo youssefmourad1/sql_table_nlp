@@ -1,15 +1,22 @@
 from flask import Flask, request, jsonify
-from file_processor import process_file
 import pandas as pd
+from file_processor import *
 
 app = Flask(__name__)
 
 @app.route('/process_sql', methods=['POST'])
 def process_sql():
-    file = request.files['file']
-    output_path = request.form.get('output_path', 'output.csv')
+    data = request.get_json()
+    file_path = data.get('file')
+    
+    if not file_path:
+        return jsonify({'error': 'No file path provided'}), 400
+    
+    output_path = request.args.get('output_path', 'output.csv')
+    
     try:
-        df, response = process_file(file, output_path)  # Adjusted to receive df and response
+        with open(file_path, 'rb') as file:
+            df, response = process_file(file, output_path)  # Adjusted to receive df and response
         # Convert DataFrame to JSON
         df_json = df.to_json(orient='records', lines=True)
         # Include DataFrame JSON in response
