@@ -1,0 +1,1162 @@
+source_message_id,chatid,target_message_id,text,Instrument name,Entry price 1,Entry price 2,Entry price 3,Entry price 4,Entry price 5,Take profit price 1,Take profit price 2,Take profit price 3,Take profit price 4,Take profit price 5,Stop loss price,Order Type
+72,'5492592958',54,'g',,,,,,,,,,,,,
+1858,'5492592958',1781,'XAUUSD sell now @ 1900 tp @ 1891 tp2 @ 1880  SL @ 1905',XAUUSD,1900,,,,,1891,1880,,,,1905,Sell now
+5582,'5492592958',3848,'SCALP TRADE   XAUUSD buy limit @ 1895 tp @ 1901 tp 2 @2 1908  Sl @ 1892 [ 30 PIPS ]',XAUUSD,1895,,,,,1901,1908,,,,1892,Buy limit
+5584,'5492592958',3850,'USOIL buy now @ 80.00 tp @ 80.80 tp 2 @ 82.30  Sl @ 79.50',USOIL,80.00,,,,,80.80,82.30,,,,79.50,Buy now
+5585,'5492592958',3851,'EURAUD sell limit @ 1.70100 tp 2 @ 1.69200 tp 2 @ 1.67800  SL @ 1.70450 [ 35 PIPS ]',EURAUD,1.70100,,,,,1.69200,1.67800,,,,1.70450,Sell limit
+5587,'5492592958',3852,'XAUUSD scalp trade   Sell now @ 1900.80 tp @ 1896 tp2 @ 1892  Sl @ 1904',XAUUSD,1900.80,,,,,1896,1892,,,,1904,Sell now
+5588,'5492592958',3853,'XAUUSD long term scenario  tp @ 1893  tp 2 @ 1882',XAUUSD,,,,,,1893,1882,,,,,
+8176,'5492592958',4454,'XAUUSD SELL NOW  @ 1900.5  TP : 1895 TP : 1890  SL : 1905',XAUUSD,1900.5,,,,,1895,1890,,,,1905,Sell now
+5589,'5492592958',3854,'AUDCAD sell limit @ 0.87360 tp @ 0.86700 tp 2 @ 0.85800  Sl @ 0.87680',AUDCAD,0.87360,,,,,0.86700,0.85800,,,,0.87680,Sell limit
+5591,'5492592958',3856,'XAUUSD buy limits delete for now !',XAUUSD,,,,,,,,,,,,Buy limit
+8179,'5492592958',4456,'AUDCAD SELL LIMIT   @ 0.87360  TP : 0.8698 TP : 0.86277  SL : 0.87680',AUDCAD,0.87360,,,,,0.8698,0.86277,,,,0.87680,Sell limit
+5595,'5492592958',3860,'NZDHCF sell limit @ 0.52470 tp @ 0.52070 tp 2 @ 0.51600  SL @ 0.52600 [ 13 PIPS ]',,0.52470,,,,,0.52070,0.51600,,,,0.52600,Sell limit
+5596,'5492592958',3861,'Activation missed enter manual',,,,,,,,,,,,,
+8184,'5492592958',4461,'NZDHCF SELL LIMIT   @ 0.52470  TP : 0.52104 TP : 0.5170  SL : 0.52600',,0.52470,,,,,0.52104,0.5170,,,,0.52600,Sell limit
+1861,'5492592958',1784,'US30 sell limit @ 34570 tp @ 34315 tp2 @ 33990  SL @ 34710',US30,34570,,,,,34315,33990,,,,34710,Sell limit
+8185,'5492592958',4462,'US30 SELL LIMIT    @ 34570  TP : 34325 TP : 34000  SL : 34715',US30,34570,,,,,34325,34000,,,,34715,Sell limit
+1863,'5492592958',1786,'XAUUSD close full in 70+ pips',XAUUSD,,,,,,,,,,,,
+5599,'5492592958',3864,'XAUUSD buy valid',XAUUSD,,,,,,,,,,,,Buy
+8189,'5492592958',4465,'XAUUSD BUY LIMIT   @ 1895 - 1894  TP : 1901 TP : 1908  Sl : 1890',XAUUSD,1895,1894,,,,1901,1908,,,,1890,Buy limit
+1864,'5492592958',1787,'GBPJPY sell limit @ 186.35 tp @ 185.46 tp2 @ 184.10  sl @ 186.83',GBPJPY,186.35,,,,,185.46,184.10,,,,186.83,Sell limit
+1865,'5492592958',1788,'GBPNZD sell limit @ 2.1480 tp @ 2.1342 tp2 @ 2.1091  SL @ 2.1550',GBPNZD,2.1480,,,,,2.1342,2.1091,,,,2.1550,Sell limit
+8190,'5492592958',4466,'Take one buy now Direct',,,,,,,,,,,,,Buy now
+8192,'5492592958',4468,'GBPJPY SELL LIMIT    @ 186.35  TP : 185.46 TP : 184.10  SL : 186.83',GBPJPY,186.35,,,,,185.46,184.10,,,,186.83,Sell limit
+8193,'5492592958',4469,'GBPNZD SELL LIMIT    @ 2.1480  TP : 2.1342 TP : 2.1091  SL : 2.1550',GBPNZD,2.1480,,,,,2.1342,2.1091,,,,2.1550,Sell limit
+1867,'5492592958',1790,'XAUUSD sell limit @ 1898.8 tp @ 1890 tp2 @ 1880  SL @ 1904',XAUUSD,1898.8,,,,,1890,1880,,,,1904,Sell limit
+8195,'5492592958',4471,'Close Buy in Profit now',,,,,,,,,,,,,Buy
+8196,'5492592958',4472,'XAUUSD SELL LIMIT   @ 1898.8  TP : 1890 TP : 1880  SL : 1904',XAUUSD,1898.8,,,,,1890,1880,,,,1904,Sell limit
+8197,'5492592958',4473,'Delete',,,,,,,,,,,,,
+8201,'5492592958',4474,'Take 1 direct buy now small lot I tell u when to close buy Trade',,,,,,,,,,,,,Buy now
+8202,'5492592958',4475,'SET SL : 1887',,,,,,,,,,,,1887,
+1868,'5492592958',1791,'Invalid now',,,,,,,,,,,,,
+8208,'5492592958',4478,'TP : 1896.50 TP : 1903',,,,,,,1896.50,1903,,,,,
+5605,'5492592958',3870,'i did not post this trade here because of some reasons but see the results',,,,,,,,,,,,,
+5606,'5492592958',3871,'XAUUSD buys if anyone Entered stop hunt -30 pips ,XAUUSD,,,,,,,,,,,,Buy
+5607,'5492592958',3872,'XAUUSD sell limit @ 1898  other limit @ 1901  tp @ 1888 tp 2 @ 1874   SL @ 1904',XAUUSD,1898,1901,,,,1888,1874,,,,1904,Sell limit
+5609,'5492592958',3874,'This trade still Valid to enter now again',,,,,,,,,,,,,
+5610,'5492592958',3875,'Limit also valid for now',,,,,,,,,,,,,
+5611,'5492592958',3876,'NZDCAD sell now @ 0.80560 tp @ 0.80160 tp 2 @ 0.79630  sL @ 0.80780',NZDCAD,0.80560,,,,,0.80160,0.79630,,,,0.80780,Sell now
+1870,'5492592958',1793,'XAUUSD sell limit @ 1901.3 tp @ 1895 tp2 @ 1887.5  SL @ 1905',XAUUSD,1901.3,,,,,1895,1887.5,,,,1905,Sell limit
+8217,'5492592958',4485,'XAUUSD SELL LIMIT   @ 1901.3  TP : 1895 TP : 1888  SL : 1905.5',XAUUSD,1901.3,,,,,1895,1888,,,,1905.5,Sell limit
+1871,'5492592958',1794,'GBPAUD sell limit @ 1.9880 tp @ 1.9776 tp2 @ 1.9610  SL @ 1.9932',GBPAUD,1.9880,,,,,1.9776,1.9610,,,,1.9932,Sell limit
+8218,'5492592958',4486,'GBPAUD SELL LIMIT    @ 1.9880  TP : 1.9776 TP : 1.9610  SL : 1.9932',GBPAUD,1.9880,,,,,1.9776,1.9610,,,,1.9932,Sell limit
+5617,'5492592958',3882,'GBPAUD sell limit @ 1.98900 tp @ 1.97400 tp 2 @  1.95200  sl @ 1.99300',GBPAUD,1.98900,,,,,1.97400,1.95200,,,,1.99300,Sell limit
+5618,'5492592958',3883,'Take one direct sell  Due to market manipulation',,,,,,,,,,,,,Sell
+1872,'5492592958',1797,'volatility 25 index buy now @ 2150.20 tp @ 2186.16 tp2@ 2216.10 sl @ 2128.0',volatility 25 index,25,2150.20,,,,2186.16,2216.10,,,,2128.0,Buy now
+1873,'5492592958',1798,'EURNZD sell now @ 1.8265 tp @ 1.8190 tp2 @ 1.8105  SL @ 1.8315',EURNZD,1.8265,,,,,1.8190,1.8105,,,,1.8315,Sell now
+8219,'5492592958',4489,'EURNZD SELL NOW',EURNZD,,,,,,,,,,,,Sell now
+1874,'5492592958',1799,'NAS100 sell limit @ 15012 tp @ 14870 tp2 @ 14715  SL @ 15090',NAS100,15012,,,,,14870,14715,,,,15090,Sell limit
+8220,'5492592958',4490,'EURNZD SELL NOW   @ 1.8269  TP : 1.8205 TP : 1.8110  SL : 1.8315',EURNZD,1.8269,,,,,1.8205,1.8110,,,,1.8315,Sell now
+8221,'5492592958',4491,'NAS100 SELL LIMIT    @ 15012  TP : 14900 TP : 14750  SL : 15090',NAS100,15012,,,,,14900,14750,,,,15090,Sell limit
+5622,'5492592958',3889,'We was have 2 trades in CADJPY but i am counted only 1  2nd extra pips will be gift for you guys',CADJPY,,,,,,,,,,,,
+5623,'5492592958',3890,'XAUUSD recovery trade   Sell now @ 1903.50 Tp @ 1895 Tp2 @ 1882  Sl @ 1910',XAUUSD,1903.50,,,,,1895,1882,,,,1910,Sell now
+5625,'5492592958',3892,'Exit at entry',,,,,,,,,,,,,
+1877,'5492592958',1802,'GBPAUD invalid',GBPAUD,,,,,,,,,,,,
+1878,'5492592958',1803,'GBPNZD invalid',GBPNZD,,,,,,,,,,,,
+1879,'5492592958',1804,'GBPJPY invalid',GBPJPY,,,,,,,,,,,,
+8230,'5492592958',4500,'Delete Pending Order',,,,,,,,,,,,,
+8231,'5492592958',4501,'Delete Pending Order',,,,,,,,,,,,,
+8232,'5492592958',4502,'Delete Pending Order',,,,,,,,,,,,,
+5628,'5492592958',3895,'Just updating for them if anyone have this trade ,,,,,,,,,,,,,
+5631,'5492592958',3898,'EURGBP Buy limit @ 0.85190 tp @ 0.85900 tp 2 @ 0.87000  SL @ 0.84900',EURGBP,0.85190,,,,,0.85900,0.87000,,,,0.84900,Buy limit
+8233,'5492592958',4503,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+5634,'5492592958',3900,'NZDUSD',NZDUSD,,,,,,,,,,,,
+1882,'5492592958',1807,'NZDCAD buy limit @ 0.8040 tp @ 0.8067 tp2 @ 0.8110  SL @ 0.802713 pips)',NZDCAD,0.8040,,,,,0.8067,0.8110,,,,0.802713,Buy limit
+1883,'5492592958',1808,'USDCAD possible',USDCAD,,,,,,,,,,,,
+1884,'5492592958',1809,'no confirmation yet',,,,,,,,,,,,,
+8235,'5492592958',4505,'NZDCAD BUY LIMIT    @ 0.8040  TP : 0.8065 TP : 0.8100  SL : 0.8025',NZDCAD,0.8040,,,,,0.8065,0.8100,,,,0.8025,Buy limit
+8237,'5492592958',4507,'I was thinking to Close this trade and find any good opportunity during news   Wait',,,,,,,,,,,,,
+5637,'5492592958',3902,'NZDCAD buy limit @ 0.80400 tp @ 0.80750 tp 2 @ 0.81220  Sl @ 0.80200 [ 20 PIPS ]',NZDCAD,0.80400,,,,,0.80750,0.81220,,,,0.80200,Buy limit
+5638,'5492592958',3903,'XAUUSD set sell limit at @ 1908   Sl @ 1915 for all',XAUUSD,1908,,,,,,,,,,1915,Sell limit
+1886,'5492592958',1811,'XAUUSD sl set 1909   It will fall soon',XAUUSD,,,,,,,,,,,1909,
+8240,'5492592958',4510,'XAUUSD SELL LIMIT   @ 1908   TP : LATER)  SL : 1915',XAUUSD,1908,,,,,sl,,,,,1915,Sell limit
+5639,'5492592958',3904,'Active',,,,,,,,,,,,,
+5640,'5492592958',3905,'100K TFT Passed phase 1',,,,,,,,,,,,,
+5641,'5492592958',3906,'Sorry gold trade is active',GOLD,,,,,,,,,,,,
+8243,'5492592958',4513,'XAUUSD BUY ZONE    @ 1895 to 1890   TP : 1900 TP : 1905 TP : 1910 TP : open   SL : 1885',XAUUSD,1895,1890,,,,1900,1905,1910,open,,1885,Buy
+1887,'5492592958',1812,'XAUUSD sell 1917 Sl @ 1923  Tp @ open',XAUUSD,1917,,,,,open,,,,,1923,Sell
+8246,'5492592958',4516,'XAUUSD sell   1917  Sl : 1923  Tp @ open',XAUUSD,1917,,,,,open,,,,,1923,Sell
+8248,'5492592958',4518,'Hope for Good Move it will again give us 50-60 pips profit Soon Inshallah',,5060,,,,,,,,,,,
+12091,'5492592958',383,'Add 20 pip  to stop loss  until this retest end',,20,,,,,,,,,,,
+12092,'5492592958',384,'Near from tp',,,,,,,,,,,,,
+12093,'5492592958',385,'For who closed it with { -  U can sell from now price',,,,,,,,,,,,,Sell
+5647,'5492592958',3912,'XAUUSD sell now @ 1919 Tp @ 1910 Tp2 @ 1900  Sl @ 1924',XAUUSD,1919,,,,,1910,1900,,,,1924,Sell now
+8255,'5492592958',4523,'XAUUSD SELL NOW  @ 1920  SL : 1927  TP : 1914 TP : 1908',XAUUSD,1920,,,,,1914,1908,,,,1927,Sell now
+5650,'5492592958',3915,'Re_enter from @1921.50 Sl safely set at @ 1927',,1921.50,,,,,,,,,,1927,
+1888,'5492592958',1813,'Tp1 @ 1912 Tp2 @ 1900',,,,,,,1912,1900,,,,,
+5651,'5492592958',3916,'USDCAD buy now @ 1.35200 Tp @ 1.35600 Tp2 @ 1.36200  Sl @ 1.34950',USDCAD,1.35200,,,,,1.35600,1.36200,,,,1.34950,Buy now
+1889,'5492592958',1814,'I am holding NZDCAD',NZDCAD,,,,,,,,,,,,
+5653,'5492592958',3918,'Am out of Home for now',,,,,,,,,,,,,
+1890,'5492592958',1815,'USDCAD buy now @ 1.3539 tp @ 1.3577 tp2 @ 1.3625  SL @ 1.352316 pips)',USDCAD,1.3539,,,,,1.3577,1.3625,,,,1.352316,Buy now
+8257,'5492592958',4524,'USDCAD BUY NOW    @ 1.3539  TP : 1.3577 TP : 1.3625  SL : 1.3523',USDCAD,1.3539,,,,,1.3577,1.3625,,,,1.3523,Buy now
+8258,'5492592958',4525,'US30 BUY NOW  @ 34445 - 34435  SL : 34410',US30,34445,34435,,,,,,,,,34410,Buy now
+8259,'5492592958',4526,'XAUUSD Buy Limit   @ 1916 to 1914   TP : 1920 TP : 1925 TP : Open Hold  SL : 1909',XAUUSD,1916,1914,,,,1920,1925,open,,,1909,Buy limit
+8260,'5492592958',4527,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+8261,'5492592958',4528,'Use Only Small Risk Today',,,,,,,,,,,,,
+8262,'5492592958',4529,'40+ pips running SL to Entry Close half profit',,,,,,,,,,,,,
+8263,'5492592958',4530,'Close at Entry point',,,,,,,,,,,,,
+8264,'5492592958',4531,'In the zone u can take entry with small lot now',,,,,,,,,,,,,
+8265,'5492592958',4532,'Close All',,,,,,,,,,,,,
+8266,'5492592958',4533,'SL to Entry',,,,,,,,,,,,,
+8267,'5492592958',4534,'Close not valid now News opposite',,,,,,,,,,,,,
+8268,'5492592958',4535,'XAUUSD SELL LIMIT   @ 1917',XAUUSD,1917,,,,,,,,,,,Sell limit
+8269,'5492592958',4536,'18+ Pips Running',,,,,,,,,,,,,
+8271,'5492592958',4538,'Also running in Range  For last 30 minutes  Not Good Opportunity',,30,,,,,,,,,,,
+1893,'5492592958',1818,'Nzdcad close 00',NZDCAD,00,,,,,,,,,,,
+8272,'5492592958',4539,'NC CLOSE  AT ENTRY',,,,,,,,,,,,,
+8273,'5492592958',4540,'XAUUSD BUY NOW    @ 1913 - 1914   TP : 1920 TP : 1925 TP : Open Hold  SL : 1903',XAUUSD,1913,1914,,,,1920,1925,open,,,1903,Buy now
+12097,'5492592958',391,'USD/CHF  Buy now 0.88200  Stop loss 50 pip  Target 1 50 PIP Target 2 100 PIP  Target 3 150 PIP',USD/CHF,0.88200,50,50,100,,,,,,,,Buy now
+1894,'5492592958',1819,'XAUUSD sell now @ 1916.7 tp @ 1910 tp2 @ 1900  sl @ 1919.5',XAUUSD,1916.7,,,,,1910,1900,,,,1919.5,Sell now
+8274,'5492592958',4541,'Booked Profit',,,,,,,,,,,,,
+8275,'5492592958',4542,'XAUUSD SELL NOW    @ 1916.7  TP : 1910 TP : 1900  SL : 1920',XAUUSD,1916.7,,,,,1910,1900,,,,1920,Sell now
+8276,'5492592958',4543,'Small lot',,,,,,,,,,,,,
+5655,'5492592958',3920,'XAUUSD sell now @ 1917 Tp open   Sl @ 1924',XAUUSD,1917,,,,,open,,,,,1924,Sell now
+1896,'5492592958',1821,'Edit sl 1921',,,,,,,,,,,,1921,
+8277,'5492592958',4544,'1922',,1922,,,,,,,,,,,
+8278,'5492592958',4545,'SL',,,,,,,,,,,,,
+5657,'5492592958',3922,'XAUUSD sell now again @ 1920  tp @ 1911 tp 2 @ 1901   Sl @ 1924 [ For both ]',XAUUSD,1920,,,,,1911,1901,,,,1924,Sell now
+5658,'5492592958',3923,'XAUUSD for me structure is still bearish ,XAUUSD,,,,,,,,,,,,
+5660,'5492592958',3925,'USDJPY sell limit @ 146.160 tp @ 145.100 tp 2 @ 143.400  Sl @ 146.500 [ 36 PIPS ]',USDJPY,146.160,,,,,145.100,143.400,,,,146.500,Sell limit
+8285,'5492592958',4551,'USDJPY SELL LIMIT    @ 146.160  TP : 145.100 TP : 143.400  SL : 146.500',USDJPY,146.160,,,,,145.100,143.400,,,,146.500,Sell limit
+1898,'5492592958',1822,'XAUUSD close at entry point  If you are Safe yet',XAUUSD,,,,,,,,,,,,
+8286,'5492592958',4552,'CLOSE ALL GOLD FOR NOW',GOLD,,,,,,,,,,,,
+5661,'5492592958',3926,'GBPCAD buy limit @ 1.70340 tp @ 1.71200 tp 2 @ 1.72600  Sl @ 1.7000  [ 34 PIPS ]',GBPCAD,1.70340,,,,,1.71200,1.72600,,,,1.7000,Buy limit
+5662,'5492592958',3927,'CADJPY sell now @ 107.450 tp @ 106.950 tp 2 @ 105.950  Sl @ 107.950',CADJPY,107.450,,,,,106.950,105.950,,,,107.950,Sell now
+1899,'5492592958',1823,'volatility 25 index sell limit @ 2168.0 tp @ 2152.0 tp2@ 2126.0 sl @ 2178.0',volatility 25 index,25,2168.0,,,,2152.0,2126.0,,,,2178.0,Sell limit
+5663,'5492592958',3928,'NZDCAD buy limit @ 0.80040 tp @ 0.80600 tp 2 @ 0.081270  SL @ 0.79850 [ 19 PIPS ]',NZDCAD,0.80040,,,,,0.80600,0.081270,,,,0.79850,Buy limit
+8287,'5492592958',4553,'EURAUD BUY NOW    @ 1.6780  TP : 1.6855 TP : 1.7020  SL : 1.6737',EURAUD,1.6780,,,,,1.6855,1.7020,,,,1.6737,Buy now
+8288,'5492592958',4554,'USOIL SELL NOW   @ 79.90  TP : 78.85 TP : 77.57  SL : 80.50',USOIL,79.90,,,,,78.85,77.57,,,,80.50,Sell now
+5666,'5492592958',3931,'AUDCAD will be the same',AUDCAD,,,,,,,,,,,,
+8292,'5492592958',4556,'USOIL PRICE RUNNING AT THE MOMENT',USOIL,,,,,,,,,,,,
+8293,'5492592958',4557,'Active and running in profit',,,,,,,,,,,,,
+8294,'5492592958',4558,'GBPAUD BUY NOW    @ 1.9624  SL : 1.9575  TP : 1.9656 TP : 1.9698',GBPAUD,1.9624,,,,,1.9656,1.9698,,,,1.9575,Buy now
+1900,'5492592958',1824,'GBPUSD buy limit @ 1.2603 tp @ 1.2657 tp2 @ 1.2727  SL @ 1.2575 28 pips)',GBPUSD,1.2603,,,,,1.2657,1.2727,,,,1.2575,Buy limit
+8297,'5492592958',4561,'GBPUSD BUY LIMIT    @ 1.2603  TP : 1.2656 TP : 1.2725  SL : 1.2572',GBPUSD,1.2603,,,,,1.2656,1.2725,,,,1.2572,Buy limit
+8299,'5492592958',4563,'58+ pips running  Save half profit Sl Shift at Entry',,,,,,,,,,,,,
+5667,'5492592958',3932,'GBPUSD buy now @ 1.24940 Tp open  Sl @ 1.24730',GBPUSD,1.24940,,,,,open,,,,,1.24730,Buy now
+5668,'5492592958',3933,'XAUUSD sell now @ 1916 Tp @ 1911 Tp2 @ 1902  Sl @ 1922',XAUUSD,1916,,,,,1911,1902,,,,1922,Sell now
+5671,'5492592958',3937,'XAUUSD hold it',XAUUSD,,,,,,,,,,,,
+8308,'5492592958',4571,'XAUUSD SELL NOW    @ 1919  TP : 1915 TP : 1910  SL : 1928',XAUUSD,1919,,,,,1915,1910,,,,1928,Sell now
+5672,'5492592958',3938,'GBPUSD 50+ pips SMASHED zero dd in just 15 minutes .. sharpe cloud',GBPUSD,15,,,,,,,,,,,
+5676,'5492592958',3943,'GBPUSD hit Break even -',GBPUSD,,,,,,,,,,,,
+1908,'5492592958',1832,'USDCAD both tp hutted 86+ pips 1:7rr zero Drawdown',DOW,,,,,,,,,,,,
+8321,'5492592958',4580,'This trade also both tp hitted 85+ pips',,,,,,,,,,,,,
+5679,'5492592958',3946,'This pips will not count just enjoy it',,,,,,,,,,,,,
+5680,'5492592958',3947,'Am collecting 30 pips only from this trade',,30,,,,,,,,,,,
+5681,'5492592958',3948,'Break even pips will not count of this trade',,,,,,,,,,,,,
+1911,'5492592958',1835,'Just need some help',,,,,,,,,,,,,
+5685,'5492592958',3951,'Video learning materials',,,,,,,,,,,,,
+5690,'5492592958',3953,'GBPCHF NEXT MOVE POSSIBLE',GBPCHF,,,,,,,,,,,,
+5691,'5492592958',3954,'AUDCHF NEXT MOVE POSSIBLE',AUDCHF,,,,,,,,,,,,
+5692,'5492592958',3955,'CADCHF NEXT MOVE POSSIBLE',CADCHF,,,,,,,,,,,,
+5693,'5492592958',3956,'BTCUSD NEXT MOVE POSSIBLE',,,,,,,,,,,,,
+5694,'5492592958',3957,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+1927,'5492592958',1839,'?',,,,,,,,,,,,,
+5695,'5492592958',3958,'SCALP TRADE   GBPUSD sell limit @ 1.26010 tp @ 1.25150 TP 2 @ 1.24300  Sl @ 1.26270 [ 26 PIPS ]',GBPUSD,1.26010,,,,,1.25150,1.24300,,,,1.26270,Sell limit
+8333,'5492592958',4584,'GBPUSD SELL LIMIT    @ 1.26010  TP : 1.25200 TP : 1.24420  SL : 1.2630',GBPUSD,1.26010,,,,,1.25200,1.24420,,,,1.2630,Sell limit
+8334,'5492592958',4585,'ALL NEW JOINERS,,,,,,,,,,,,,
+1929,'5492592958',1841,'Keep patience keep patience   Why again and again asking to send signals i am looking for signal if i found any good entry i will send it for you guys   So keep patience always kindly',,,,,,,,,,,,,
+5699,'5492592958',3960,'I am deleting my limit its little bit risky for now   If anyone still want to go with this use 0.10% risk only',,,,,,,,,,,,,
+8335,'5492592958',4586,'I am deleting my limit its little bit risky for now   If anyone still want to go with this use 0.10% risk only',,,,,,,,,,,,,
+5700,'5492592958',3961,'NZDCHF buy limit @ 0.51990 tp @ 0.52410 tp 2 @ 0.52960  SL @ 0.51850 [ 14 pips ]',NZDCHF,0.51990,,,,,0.52410,0.52960,,,,0.51850,Buy limit
+5701,'5492592958',3962,'EURCHF Sell limit @ 0.95830 tp @ 0.95400 tp 2 @ 0.94800  Sl @ 0.95990 [ 16 pips ]',EURCHF,0.95830,,,,,0.95400,0.94800,,,,0.95990,Sell limit
+1930,'5492592958',1842,'CHFJPY sell limit @ 166.10 tp @ 165.40 tp2 @ 164.17  SL @ 166.4838 pips)',CHFJPY,166.10,,,,,165.40,164.17,,,,166.4838,Sell limit
+5702,'5492592958',3963,'CADCHF buy limit @ 0.64970 other limit @ 0.84850 tp @ 0.65300 tp 2 @ 0.65700  Sl @ 0.64750 [ 20 PIPS ]',CADCHF,0.64970,0.84850,,,,0.65300,0.65700,,,,0.64750,Buy limit
+8336,'5492592958',4587,'CHFJPY SELL LIMIT   @ 166.10  TP : 165.55 TP : 164.45  SL : 166.50',CHFJPY,166.10,,,,,165.55,164.45,,,,166.50,Sell limit
+5703,'5492592958',3964,'CHFJPY buy limit @ 165.550 other limit @ 165.360 tp @ 165.900 tp 2 @ 166.220  Sl @ 165.250',CHFJPY,165.550,165.360,,,,165.900,166.220,,,,165.250,Buy limit
+1931,'5492592958',1843,'NZDCAD buy limit @ 0.8007 tp @ 0.8043 tp2 @ 0.8111  SL @ 0.798918 pips)',NZDCAD,0.8007,,,,,0.8043,0.8111,,,,0.798918,Buy limit
+8337,'5492592958',4588,'NZDCAD BUY LIMIT    @ 0.8008  TP : 0.8040 TP : 0.8099  SL : 0.7986',NZDCAD,0.8008,,,,,0.8040,0.8099,,,,0.7986,Buy limit
+5704,'5492592958',3965,'LONG TERM TRADE   AUDCHF sell limit @ 0.57060 tp @ 0.56550 tp2 @ 0.55680   Sl @ 0.57260 [ 20 PIPS ]',AUDCHF,0.57060,,,,,0.56550,0.55680,,,,0.57260,Sell limit
+8338,'5492592958',4589,'Market is very Lazy and Slow Because of bank holiday,,,,,,,,,,,,,
+8341,'5492592958',4592,'GBPAUD BUY NOW    @ 1.9586  SL : 1.9560  TP : 1.9618 TP : 1.9680',GBPAUD,1.9586,,,,,1.9618,1.9680,,,,1.9560,Buy now
+5705,'5492592958',3966,'AUDJPY sell limit @ 94.600 tp @ 93.600 tp 2 @ 92.500  Sl @ 94.900',AUDJPY,94.600,,,,,93.600,92.500,,,,94.900,Sell limit
+8342,'5492592958',4593,'Set one more SeLL limit @ 1926  SL Updated : 1931 for Safety)',,1926,,,,,,,,,,1931,Sell limit
+8343,'5492592958',4594,'Sell now',,,,,,,,,,,,,Sell now
+8344,'5492592958',4595,'GBPAUD started blue Sl move at entry point',GBPAUD,,,,,,,,,,,,
+5707,'5492592958',3968,'LONG TERM TRADE   XAUUSD sell now @ 1924.50  other limit @ 1926  tp @ 1907 tp 2 @ 1890   Sl @ 1931 [ 100 pips ]',XAUUSD,1924.50,1926,,,,1907,1890,,,,1931,Sell now
+8353,'5492592958',4601,'Hold few lots with tp and break even',,,,,,,,,,,,,
+1933,'5492592958',1846,'EURCHF sell limit @ 0.9577 tp @ 0.9520 tp2 @ 0.9460  SL @ 0.960528 pips)',EURCHF,0.9577,,,,,0.9520,0.9460,,,,0.960528,Sell limit
+1934,'5492592958',1847,'AUDCHF sell now @ 0.5697 tp @ 0.5633 tp2 @ 0.5510  SL @ 0.573033 pips)',AUDCHF,0.5697,,,,,0.5633,0.5510,,,,0.573033,Sell now
+8355,'5492592958',4604,'AUDCHF SELL NOW   @ 0.5702  TP : 0.5644 TP : 0.5530  SL : 0.5732',AUDCHF,0.5702,,,,,0.5644,0.5530,,,,0.5732,Sell now
+8356,'5492592958',4605,'EURCHF SELL LIMIT   @ 0.9577  TP : 0.9530 TP : 0.9480  SL ; 0.9608',EURCHF,0.9577,,,,,0.9530,0.9480,,,,0.9608,Sell limit
+1935,'5492592958',1848,'EURGBP sell limit @ 0.8575 tp @ 9,EURGBP,0.8575,,,,,,,,,,,Sell limit
+5714,'5492592958',3977,'Save small lot only',,,,,,,,,,,,,
+5715,'5492592958',3978,'20+ pips running',,,,,,,,,,,,,
+1936,'5492592958',1849,'EURGBP triggered and running',EURGBP,,,,,,,,,,,,
+8357,'5492592958',4606,'EURGBP SELL NOW  @ 0.8570  TP : 9,EURGBP,0.8570,,,,,,,,,,,Sell now
+5716,'5492592958',3979,'EURGBP sell now @ 0.85790',EURGBP,0.85790,,,,,,,,,,,Sell now
+5717,'5492592958',3980,'EURGBP sell now @ 0.85790 other limit @ 0.85890 tp @ 0.85550 tp 2 @ 0.85180  SL @ 0.85950',EURGBP,0.85790,0.85890,,,,0.85550,0.85180,,,,0.85950,Sell now
+5718,'5492592958',3981,'AUDNZD sell limit @ 1.08805 tp @ 1.08500 tp 2 @ 1.08050  Sl @ 1.08930 [ 12 PIPS ]',AUDNZD,1.08805,,,,,1.08500,1.08050,,,,1.08930,Sell limit
+8358,'5492592958',4607,'AUDJPY SELL NOW    @ 94.34  TP : 93.87 TP : 92.90  SL : 94.70',AUDJPY,94.34,,,,,93.87,92.90,,,,94.70,Sell now
+8359,'5492592958',4608,'Small Lot',,,,,,,,,,,,,
+8360,'5492592958',4609,'GBPAUD BUY NOW    @ 1.9588  TP : 1.9635 TP : 1.9685  SL : 1.9560',GBPAUD,1.9588,,,,,1.9635,1.9685,,,,1.9560,Buy now
+8360,'5492592958',4611,'GBPAUD BUY NOW    @ 1.9588  TP : 1.9635 TP : 1.9685  SL : 1.9560',GBPAUD,1.9588,,,,,1.9635,1.9685,,,,1.9560,Buy now
+8367,'5492592958',4612,'AUDNZD SELL LIMIT   @ 1.08805  TP : 1.08550 TP : 1.08250  SL : 1.08930',AUDNZD,1.08805,,,,,1.08550,1.08250,,,,1.08930,Sell limit
+5719,'5492592958',3982,'GBPUSD sell limit @ 1.26205 tp @ 1.25520 tp 2 @ 1.24300  Sl @ 1.26380 [ 18 PIPS ]',GBPUSD,1.26205,,,,,1.25520,1.24300,,,,1.26380,Sell limit
+8368,'5492592958',4613,'GBPAUD BUY LIMIT  @ 1.9560  TP : 1.9673 TP : 1.9844  SL : 1.9525 for both)',GBPAUD,1.9560,,,,,1.9673,1.9844,,,,1.9525,Buy limit
+8369,'5492592958',4614,'AUDJPY SL UPDATE : 94.95',AUDJPY,,,,,,,,,,,94.95,
+5720,'5492592958',3983,'EURNZD Buy now tp and sl will post soon',EURNZD,,,,,,sl,,,,,,Buy now
+8372,'5492592958',4617,'EURNZD BUY NOW',EURNZD,,,,,,,,,,,,Buy now
+5721,'5492592958',3984,'EURNZD buy now @ 1.82310 tp @ 1.83150 tp 2 @ 1.8425  Sl @ 1.82150 [ 17 PIPS ]',EURNZD,1.82310,,,,,1.83150,1.8425,,,,1.82150,Buy now
+8373,'5492592958',4618,'EURNZD BUY NOW   @ 1.82310  TP : 1.83076 TP : 1.83932  SL : 1.82150',EURNZD,1.82310,,,,,1.83076,1.83932,,,,1.82150,Buy now
+8375,'5492592958',4620,'GBPUSD SELL LIMIT   @ 1.26205  TP : 1.25520 TP : 1.24300  SL : 1.26380',GBPUSD,1.26205,,,,,1.25520,1.24300,,,,1.26380,Sell limit
+8377,'5492592958',4622,'EURAUD BUY NOW     @ 1.6794 - 1.6770  TP : 1.6832 TP : 1.6896  SL : 1.6735',EURAUD,1.6794,1.6770,,,,1.6832,1.6896,,,,1.6735,Buy now
+8378,'5492592958',4623,'EURGBP SELL NOW    @ 0.8584  SL : 0.8600  TP : 0.8562 TP : 0.8505',EURGBP,0.8584,,,,,0.8562,0.8505,,,,0.8600,Sell now
+1937,'5492592958',1850,'USOIL sell limit @ 81.26 tp @ 80.17 tp2 @ 78.15  SL @ 81.8056 pips)',USOIL,81.26,,,,,80.17,78.15,,,,81.8056,Sell limit
+8380,'5492592958',4624,'USOIL SELL LIMIT    @ 81.26  TP : 80.45 TP : 78.45  SL : 81.85',USOIL,81.26,,,,,80.45,78.45,,,,81.85,Sell limit
+1938,'5492592958',1851,'Extend EURGBP SL  08 pips  Set it 0.8600',EURGBP,,,,,,,,,,,08,
+8382,'5492592958',4626,'Extend EURGBP SL 08 pips Set as : 0.8600',EURGBP,,,,,,,,,,,08,
+8383,'5492592958',4627,'Same SL as Second Entry  Means both Entries have same SL',,,,,,,,,,,,sl,
+8386,'5492592958',4629,'#GBPAUD 50+ PIPS RUNNING  SL MOVE AT ENTRY POINT',GBPAUD,,,,,,,,,,,,
+5731,'5492592958',3994,'Because JPY trend is strongly bulish',,,,,,,,,,,,,
+8388,'5492592958',4630,'I’m closing AUDJPY now',AUDJPY,,,,,,,,,,,,
+12101,'5492592958',395,'For Bad Luck Hit stop loss - 5 %  we will cover it this week  we have good setups to share',,,,,,,,,,,,,
+1939,'5492592958',1852,'Set sl 166.62 for CHFJPY',CHFJPY,,,,,,,,,,,166.62,
+8390,'5492592958',4632,'Set SL @ 166.62 for CHFJPY',CHFJPY,,,,,,,,,,,166.62,
+8391,'5492592958',4633,'Close Full GOLD now',GOLD,,,,,,,,,,,,
+5735,'5492592958',3997,'GBPJPY sell limit @ 185.650 tp @ 184.400 tp 2 @ 182.300  Sl @ 186.00',GBPJPY,185.650,,,,,184.400,182.300,,,,186.00,Sell limit
+1941,'5492592958',1854,'Dead boring and slow market',,,,,,,,,,,,,
+1942,'5492592958',1855,'XAUUSD sell now @ 1931.5 Tp @ 1926 Tp2 @ 1917  Sl @ 1934',XAUUSD,1931.5,,,,,1926,1917,,,,1934,Sell now
+8393,'5492592958',4635,'XAUUSD sell now @ 1931.5',XAUUSD,1931.5,,,,,,,,,,,Sell now
+8394,'5492592958',4636,'TP : 1926 TP : 1917  SL : 1934',,,,,,,1926,1917,,,,1934,
+5736,'5492592958',3998,'XAUUSD sell now @ 1931',XAUUSD,1931,,,,,,,,,,,Sell now
+5737,'5492592958',3999,'XAUUSD sell now @ 1931.50 Tp @ 1924 Tp2 @ 1912  Sl @ 1935',XAUUSD,1931.50,,,,,1924,1912,,,,1935,Sell now
+5738,'5492592958',4000,'Sl edited @ 1937',,,,,,,,,,,,1937,
+8396,'5492592958',4637,'SL : 1937',,,,,,,,,,,,1937,
+5739,'5492592958',4001,'XAUUSD sell more @ 1934',XAUUSD,1934,,,,,,,,,,,Sell
+8397,'5492592958',4638,'ADD MORE SELL   @ 1934  SL : 1938  for both)',,1934,,,,,,,,,,1938,Sell
+8398,'5492592958',4639,'Second tp : 1920 Mistaken type : 1902',,,,,,,1920,,,,,,
+8399,'5492592958',4640,'For Long term Target : 1902 Valid',,1902,,,,,,,,,,,
+1944,'5492592958',1856,'XAUUSD sl hit 25- pips EURGBP sl hit 27-- pips',XAUUSD,,,,,,,,,,,25,
+5744,'5492592958',4006,'This last update for those who have still this trade',,,,,,,,,,,,,
+12105,'5492592958',398,'Sell limit area 146.250 : 146.200',,146.250,146.200,,,,,,,,,,Sell limit
+5746,'5492592958',4008,'USDCHF buy limit @ 1.87790 tp @ 0.88250 tp 2 @ 0.88870  Sl @ 0.87400',USDCHF,1.87790,,,,,0.88250,0.88870,,,,0.87400,Buy limit
+5747,'5492592958',4009,'You can take one direct as well',,,,,,,,,,,,,
+5748,'5492592958',4010,'NZDCAD not Valid',NZDCAD,,,,,,,,,,,,
+8404,'5492592958',4644,'USDCHF BUY LIMIT   @ 1.87790  TP : 0.88250 TP : 0.88870  SL : 0.87400',USDCHF,1.87790,,,,,0.88250,0.88870,,,,0.87400,Buy limit
+5750,'5492592958',4012,'EURUSD sell limit @ 1.09150 Sl @ 1.09320 Tp open',EURUSD,1.09150,,,,,open,,,,,1.09320,Sell limit
+8407,'5492592958',4647,'EURUSD SELL LIMIT   @ 1.09150  TP : OPEN)  SL : 1.09320',EURUSD,1.09150,,,,,open,,,,,1.09320,Sell limit
+8408,'5492592958',4648,'EURUSD BUY LIMIT   @ 1.08122  TP : 1.08555 TP : 1.09240 TP : OPEN HOLD)  SL : 1.07577',EURUSD,1.08122,,,,,1.08555,1.09240,open,,,1.07577,Buy limit
+8409,'5492592958',4649,'SWING TRADE EURJPY SELL LIMIT   @ 159.178  TP : 158.608 TP : 157.785 TP : OPEN HOLD)  SL : 159.739',EURJPY,159.178,,,,,158.608,157.785,open,,,159.739,Sell limit
+8410,'5492592958',4650,'GBPJPY BUY NOW TP AND SL POST SOON',GBPJPY,,,,,,sl,,,,,,Buy now
+8411,'5492592958',4651,'USDJPY BUY NOW TP AND SL POST SOON',USDJPY,,,,,,sl,,,,,,Buy now
+5751,'5492592958',4013,'EURUSD sell limit @ 1.09150 tp @ 1.08500 tp 2 @ 1.07800  Sl @ 1.09330 [ 18 PIPS ]',EURUSD,1.09150,,,,,1.08500,1.07800,,,,1.09330,Sell limit
+5752,'5492592958',4014,'NZDUSD sell limit @ 0.59500 tp @ 0.58900 tp 2 @ 0.58220  Sl @ 0.59770',NZDUSD,0.59500,,,,,0.58900,0.58220,,,,0.59770,Sell limit
+1945,'5492592958',1857,'EURJPY sell limit @ 159.20 tp @ 158.50 tp2 @ 157.77  SL @ 159.55',EURJPY,159.20,,,,,158.50,157.77,,,,159.55,Sell limit
+5754,'5492592958',4016,'CADJPY sell now @ 107.960',CADJPY,107.960,,,,,,,,,,,Sell now
+5755,'5492592958',4017,'CADJPY sell now @ 107.950 tp @ 107.550 tp 2 @ 106.850  sl @ 108.130 [ 18 PIPS ]',CADJPY,107.950,,,,,107.550,106.850,,,,108.130,Sell now
+5757,'5492592958',4019,'EURJPY sell limit @ 159.200 tp @ 1 @ 158.400 tp 2 @ open set & forget   sl @ 159.450 [ 25 PIPS 0',EURJPY,159.200,,,,,158.400,open,,,,159.450,Sell limit
+8417,'5492592958',4654,'In Gold Increase SL 10 more Pips set 1941',GOLD,,,,,,,,,,,10,
+1946,'5492592958',1858,'Market have very low volatility this week  Very slow and boring movement',,,,,,,,,,,,,
+8418,'5492592958',4655,'AUDJPY SELL NOW   @ 94.66  TP : 93.86 TP : 92.81  SL : 95.07',AUDJPY,94.66,,,,,93.86,92.81,,,,95.07,Sell now
+8419,'5492592958',4656,'USDCAD SELL LIMIT    @ 1.36144  TP  : 1.35877 TP  : 1.35547 TP  : OPEN  SL : 1.36651',USDCAD,1.36144,,,,,1.35877,1.35547,open,,,1.36651,Sell limit
+5758,'5492592958',4020,'EURCAD sell now @ 1.47670 tp open   Sl @ 1.47870',EURCAD,1.47670,,,,,open,,,,,1.47870,Sell now
+5759,'5492592958',4021,'EURCAD sell now @ 1.47680',EURCAD,1.47680,,,,,,,,,,,Sell now
+5760,'5492592958',4022,'Sl extend 5  pips more # 159.500',,,,,,,,,,,,159.500,
+8421,'5492592958',4658,'AUDUSD SELL NOW   @  0.6470  TP : 0.6439 TP : 0.6402  SL : 0.6497',AUDUSD,0.6470,,,,,0.6439,0.6402,,,,0.6497,Sell now
+1947,'5492592958',1859,'XAUUSD sell now @ 1940 other sell limit @ 1942 tp @ 1931 tp2 @ 1918  SL @ 1948',XAUUSD,1940,1942,,,,1931,1918,,,,1948,Sell limit
+5762,'5492592958',4024,'EURJPY sell limit @ 159.210 tp @ 158.750 tp 2 @ open   Sl @ 159.470',EURJPY,159.210,,,,,158.750,open,,,,159.470,Sell limit
+8422,'5492592958',4659,'XAUUSD SELL NOW  @ 1940 - 42  TP : 1935 TP : 1925  SL : 1949',XAUUSD,1940,42,,,,1935,1925,,,,1949,Sell now
+5763,'5492592958',4025,'XAUSD sell now @2 1839',,1839,,,,,,,,,,,Sell now
+5764,'5492592958',4026,'XAUUSD sell now @ 1941.70 tp @ 1933  tp 2 @ 1915   Sl @ 1948',XAUUSD,1941.70,,,,,1933,1915,,,,1948,Sell now
+5765,'5492592958',4027,'Entry @ 1942.10',,1942.10,,,,,,,,,,,
+8424,'5492592958',4661,'EURJPY Add sell more    @ 159.330',EURJPY,159.330,,,,,,,,,,,Sell
+1948,'5492592958',1860,'XAUUSD possibilites  set more sell @ 1948 tp @ same   SL @ 1955.5',XAUUSD,1948,,,,,sl,,,,,1955.5,Sell
+8426,'5492592958',4663,'XAUUSD possible Little Bit More Up Take Chance Set One More Sell Limit   @ 1948  TPs : SAME  SL : 1955.5 FOR BOTH)',XAUUSD,1948,,,,,,,,,,1955.5,Sell limit
+5768,'5492592958',4030,'Recovery trade   USDCAD buy now @ 1.35300 other limit 2 1.35230 TP @ 1.35700 tp 2 @ 1.36360  Sl @ 1.35070',USDCAD,1.35300,1.35230,,,,1.35700,1.36360,,,,1.35070,Buy now
+8429,'5492592958',4665,'Recovery trade   USDCAD BUY NOW   @ 1.35280 - 1.35230  TP : 1.35700 TP : 1.36360  SL : 1.35070',USDCAD,1.35280,1.35230,,,,1.35700,1.36360,,,,1.35070,Buy now
+5769,'5492592958',4031,'XAUUSD sell now @ 1946.70 tp @ 1933 tp 2 @ 1916   Sl @ 1954',XAUUSD,1946.70,,,,,1933,1916,,,,1954,Sell now
+8430,'5492592958',4666,'Keep Hold All Trades',,,,,,,,,,,,,
+5770,'5492592958',4032,'NZDUSD stop hunt as well',NZDUSD,,,,,,,,,,,,
+12118,'5492592958',406,'Add 15 PIP To Stop loss until retest end',,15,,,,,,,,,,,
+8434,'5492592958',4670,'GBPAUD BUY NOW   @ 1.9620-1.9570  TP : 1.9660 TP : 1.9760  SL : 1.9530',GBPAUD,,,,,,1.9660,1.9760,,,,1.9530,Buy now
+8436,'5492592958',4671,'EURAUD BUY NOW  @ 1.6840 - 1.6800  TP : 1.6880 TP : 1.7000  SL :1.6750',EURAUD,1.6840,1.6800,,,,1.6880,1.7000,,,,1.6750,Buy now
+8437,'5492592958',4672,'GBPJPY BUY NOW',GBPJPY,,,,,,,,,,,,Buy now
+8438,'5492592958',4673,'GBPUSD SELL NOW',GBPUSD,,,,,,,,,,,,Sell now
+1950,'5492592958',1862,'CADJPY buy now @ 107.63 tp @ 107.84 tp2 @ 108.04  SL @ 107.5508 pips)',CADJPY,107.63,,,,,107.84,108.04,,,,107.5508,Buy now
+8440,'5492592958',4675,'CADJPY BUY NOW    @ 107.63  TP :  107.84 TP : 108.04  SL : 107.55',CADJPY,107.63,,,,,107.84,108.04,,,,107.55,Buy now
+1954,'5492592958',1866,'EURCHF still running',EURCHF,,,,,,,,,,,,
+1955,'5492592958',1867,'CHFJPY still running we are safe by 1 pip',CHFJPY,,,,,,,,,,,,
+1957,'5492592958',1869,'CADJPY set breakeven  If anyone toom some profit good luck  It already move 16+ pips 1:2rr',CADJPY,,,,,,,,,,,,
+5774,'5492592958',4035,'Last 10 DAYS PERFORMANCE for 4500$ Account   Total Proft upto 10k$  Withdrawal amount in last  10 Days   : 7436$  Upcoming withdrawal : 3338$  Quality  Over Quantity trades',,10,10,,,,,,,,,,
+1958,'5492592958',1870,'CHFJPY UPDATE   tp1 hit 70+ pips 1:2rr  #VIP_TRADE',CHFJPY,,,,,,,,,,,,
+1959,'5492592958',1871,'NAS100 sell now @ 15453 tp @ 15240 tp2 @ 15925  SL @ 15600',NAS100,15453,,,,,15240,15925,,,,15600,Sell now
+8443,'5492592958',4678,'NAS100 SELL NOW    @ 15453  TP ; 15240 TP : 15925  SL : 15600',NAS100,15453,,,,,15240,15925,,,,15600,Sell now
+8445,'5492592958',4679,'Valid second limit also',,,,,,,,,,,,,
+8446,'5492592958',4680,'Second limit valid',,,,,,,,,,,,,
+8447,'5492592958',4681,'SL',,,,,,,,,,,,,
+8448,'5492592958',4682,'Tp',,,,,,,,,,,,,
+5775,'5492592958',4036,'XAUUSD exit from sell 15+ enjoy profit',XAUUSD,,,,,,,,,,,,Sell
+12122,'5492592958',413,'EUR/AUD  Sell now  1.67550 Tp 1 : 75 PIP Tp 2 + 3  Open Stop loss - 1.68300',EUR/AUD,1.67550,,,,,75,open,,,,,Sell now
+8451,'5492592958',4684,'Hold',,,,,,,,,,,,,
+8452,'5492592958',4685,'US30 SELL NOW   @ 34995  TP : 34890 TP : 34750  SL : 35150',US30,34995,,,,,34890,34750,,,,35150,Sell now
+8453,'5492592958',4686,'XAUUSD SELL NOW  @ 1944 - 1947  Tp : 1938 TP : 1927  SL : 1953',XAUUSD,1944,1947,,,,1938,1927,,,,1953,Sell now
+8461,'5492592958',4691,'After aa slow boring market thanks God gold awake up',GOLD,,,,,,,,,,,,
+1963,'5492592958',1875,'GBPCAD buy limit @ 1.7050 tp @ 1.7144 tp2 @ 1.7297  SL @ 1.700050 pips)',GBPCAD,1.7050,,,,,1.7144,1.7297,,,,1.700050,Buy limit
+8466,'5492592958',4693,'GBPCAD BUY LIMIT   @ 1.7050  TP : 1.7144 TP : 1.7297  SL : 1.7000',GBPCAD,1.7050,,,,,1.7144,1.7297,,,,1.7000,Buy limit
+8467,'5492592958',4694,'GBPCHF SELL NOW   @ 1.1183  TP : 1.1160 TP : 1.1088  SL : 1.1210',GBPCHF,1.1183,,,,,1.1160,1.1088,,,,1.1210,Sell now
+8468,'5492592958',4695,'EURGBP BUY NOW   @ 0.8557  TP : 0.8580 TP : 0.8611  SL : 0.8550',EURGBP,0.8557,,,,,0.8580,0.8611,,,,0.8550,Buy now
+8469,'5492592958',4696,'Use only small lot Today',,,,,,,,,,,,,
+8470,'5492592958',4697,'SL hit 07 Pips--',,,,,,,,,,,,,
+5777,'5492592958',4039,'XAUUSD Sell Stop @ 1938   Tp @ 1932 tp2 @ open   Sl @ 1950',XAUUSD,1938,,,,,1932,open,,,,1950,Sell stop
+1964,'5492592958',1876,'XAUUSD sell now @ 1953 Tp @ 1946 Tp2 @ 1934  Sl @ 1958',XAUUSD,1953,,,,,1946,1934,,,,1958,Sell now
+5778,'5492592958',4040,'XAUUSD sell now @ 1953 Tp @ 1942   Sl @ 1958',XAUUSD,1953,,,,,1942,,,,,1958,Sell now
+8472,'5492592958',4699,'XAUUSD BUY NOW   @ 1949 - 50  TP : 1955 TP : 1959  SL : 1937',XAUUSD,1949,50,,,,1955,1959,,,,1937,Buy now
+8473,'5492592958',4700,'Exit',,,,,,,,,,,,,
+8474,'5492592958',4701,'XAUUSD sell now   @ 1953 - 55  TP : 1946 TP : 1934  SL : 1959',XAUUSD,1953,55,,,,1946,1934,,,,1959,Sell now
+5780,'5492592958',4042,'XAUUSD sell hold with break even  XAUUSD Next Swing Trade set Long term buy limit  @ 1942 Tp @ 1945  Sl @ 1937',XAUUSD,1942,,,,,1945,,,,,1937,Buy limit
+8477,'5492592958',4702,'Set Breakeven must may be it will go up again',,,,,,,,,,,,,
+8479,'5492592958',4704,'After News Gold Moving 10 - 20 pips what we do here  Total lazy Week',GOLD,10,20,,,,,,,,,,
+8480,'5492592958',4705,'Strat smashing',,,,,,,,,,,,,
+8481,'5492592958',4706,'55+ pips near to Target 1',,,,,,,,,,,,,
+5781,'5492592958',4043,'Delete it',,,,,,,,,,,,,
+5783,'5492592958',4045,'Enjoy',,,,,,,,,,,,,
+5784,'5492592958',4046,'Next trade',,,,,,,,,,,,,
+5787,'5492592958',4049,'Set sl @ 1933 More buy @ 1938',,,,,,,,,,,,1933,Buy
+8484,'5492592958',4707,'Close All gold Now',GOLD,,,,,,,,,,,,
+8487,'5492592958',4710,'Can You Guys give me Review of today Signals Plus Today trades Screenshot',,,,,,,,,,,,,
+8489,'5492592958',4712,'All guys comment please',,,,,,,,,,,,,
+12123,'5492592958',414,'USD/JPY Hit Tp 2 + 140 PIP  EUR/AUD Hit Tp 1 + 75 PIP  —-  EUR/CHF  AUD/USD   hit Stop loss  —-  august was Hard month - but we will do our best this month 9',USD/JPY,,,,,,140,75,,,,,
+8494,'5492592958',4716,'Some monthly clients having expired their premium offer Going to remove or you can Renew your membership',,,,,,,,,,,,,
+5794,'5492592958',4053,'NZDUSD NEXT MOVE POSSIBLE',NZDUSD,,,,,,,,,,,,
+5795,'5492592958',4054,'USDCAD NEXT MOVE POSSIBLE',USDCAD,,,,,,,,,,,,
+5796,'5492592958',4055,'CADJPY NEXT MOVE POSSBLE',CADJPY,,,,,,,,,,,,
+5797,'5492592958',4056,'GBPCAD NEXT MOVE POSSIBLE',GBPCAD,,,,,,,,,,,,
+5798,'5492592958',4057,'XAGUSD NEXT MOVE POSSIBLE',XAGUSD,,,,,,,,,,,,
+5801,'5492592958',4061,'CADJPY sell limit @ 107.980 tp @ 107.050 tp 2 @ 106.050  SL @ 108.120',CADJPY,107.980,,,,,107.050,106.050,,,,108.120,Sell limit
+5802,'5492592958',4062,'SCALP TRADE   USDJPY sell now @ 146.360 tp @ 146.010 tp 2 @ open   Sl @ 146.490',USDJPY,146.360,,,,,146.010,open,,,,146.490,Sell now
+5803,'5492592958',4063,'Sl edited @ 146.560',,,,,,,,,,,,146.560,
+5804,'5492592958',4064,'NZDUSD Buy limit @ 0.59050 tp @ 0.59850 tp 2 @ 0.60900  Sl @ 0.',NZDUSD,0.59050,,,,,0.59850,0.60900,,,,,Buy limit
+5805,'5492592958',4065,'NZDCHF buy now @ 0.52560 Tp and sl will post soon',NZDCHF,0.52560,,,,,sl,,,,,,Buy now
+5806,'5492592958',4066,'Other buy limit @ 0.52460 Tp @ 0.52800 Tp2 open   Sl @ 0.52300',,0.52460,,,,,0.52800,open,,,,0.52300,Buy limit
+1978,'5492592958',1884,'AUDNZD sell limit @ 1.0883 tp @ 1.0850 tp2 @ 1.0816  SL @ 1.0900',AUDNZD,1.0883,,,,,1.0850,1.0816,,,,1.0900,Sell limit
+8507,'5492592958',4721,'AUDNZD SELL LIMIT   @ 1.0883  TP : 1.0855 TP : 1.0821  SL : 1.0900',AUDNZD,1.0883,,,,,1.0855,1.0821,,,,1.0900,Sell limit
+8508,'5492592958',4722,'AUDJPY SELL LIMIT   @ 94.67  TP : 94.20 TP : 93.30  SL : 95.15',AUDJPY,94.67,,,,,94.20,93.30,,,,95.15,Sell limit
+5807,'5492592958',4067,'GBPUSD Buy now @ 1.26210 Other limit @ 1.26140 Tp @ 1.26700 Tp2 @ 1.27700  Sl @ .125880',GBPUSD,1.26210,1.26140,,,,1.26700,1.27700,,,,,Buy now
+8510,'5492592958',4724,'EURAUD SELL NOW   @1.6706  TP : 1.6645 TP : 1.6570  SL : 1.6745',EURAUD,1.6706,,,,,1.6645,1.6570,,,,1.6745,Sell now
+5808,'5492592958',4068,'AUDNZD Sell Limit @ 1.08870 tp @ 1.08470 tp 2 @ 1.08050  SL @ 1.08990 [ 11Pips ]',AUDNZD,1.08870,,,,,1.08470,1.08050,,,,1.08990,Sell limit
+5809,'5492592958',4069,'LONG TERM TRADE   GBPAUD buy limit @ 1.95020 tp @ 1.96400 tp 2 @ 1.98180  Sl @ 1.94620 [ 40 pips ]',GBPAUD,1.95020,,,,,1.96400,1.98180,,,,1.94620,Buy limit
+5810,'5492592958',4070,'Sl was 20 pips but i have extended it 20 pips more so our trades will be safe in case of high night spread',,,,,,,,,,,,20,
+1979,'5492592958',1885,'USD & CAD banks holiday  Market have no momentum  Slow and lazy market',,,,,,,,,,,,,
+8512,'5492592958',4726,'GBPCAD SELL NOW   @ 1.7165  TP : 1.7131 TP : 1.7080  SL : 1.7195',GBPCAD,1.7165,,,,,1.7131,1.7080,,,,1.7195,Sell now
+1981,'5492592958',1887,'NZDCAD buy limit @ 0.8065 tp @ 0.8135 tp2 @ 0.8220  Sl @ 0.803035 pips)',NZDCAD,0.8065,,,,,0.8135,0.8220,,,,0.803035,Buy limit
+1982,'5492592958',1888,'USDCAD buy limit @ 1.3535 TP @ 1.3600 TP2 @ 1.3695  sl @ 1.348550 PIPS)',USDCAD,1.3535,,,,,1.3600,1.3695,,,,1.348550,Buy limit
+8514,'5492592958',4727,'NZDCAD BUY LIMIT    @ 0.8065  TP : 0.8131 TP : 0.810  SL : 0.8030',NZDCAD,0.8065,,,,,0.8131,0.810,,,,0.8030,Buy limit
+8515,'5492592958',4728,'USDCAD BUY LIMIT  @ 1.3535  TP : 1.3600 TP : 1.3630  SL : 1.3485',USDCAD,1.3535,,,,,1.3600,1.3630,,,,1.3485,Buy limit
+8516,'5492592958',4729,'“10 Important Trading Rules!”  10. Set goals 9. Patience is key 8. Embrace losses 7. Stay disciplined 6. Schedule breaks 5. Adapt to markets 4. Track your trades 3. Learn relentlessly 2. Prioritize your health 1. Trade logic,,,,,,,,,,,,,
+8517,'5492592958',4730,'LONG TERM TRADE   GBPAUD BUY LIMIT   @ 1.95020  TP : 1.96400 TP : 1.98180  SL : 1.94620',GBPAUD,1.95020,,,,,1.96400,1.98180,,,,1.94620,Buy limit
+8518,'5492592958',4731,'Use Good Lot Size Means take 2-3% Risk in this Setup as per your Equity And Hold for Long Term',,,,,,,,,,,,,
+8520,'5492592958',4733,'XTIUSD SELL NOW   @ 85.90  TP : 85.40 TP : 85.50  SL : 86.60',,85.90,,,,,85.40,85.50,,,,86.60,Sell now
+8521,'5492592958',4734,'If u have Same price then Enter otherwise leave it   Because All brokers have Different Oil Prices',,,,,,,,,,,,,
+1983,'5492592958',1889,'volatility 75 index sell now @ 366405 another sell limit @ 374390.0  tp @ 350000 sl @ 381500',,75,366405,374390.0,,,350000,,,,,381500,Sell limit
+1985,'5492592958',1891,'XAUUSD  sell limit @ 1940 tp @ 1934.5  sl @ 1942.5',XAUUSD,1940,,,,,1934.5,,,,,1942.5,Sell limit
+5814,'5492592958',4073,'CADCHF Buy limit @ 0.64730 tp @ 0.65150 tp 2 @ 0.65700  Sl @ 0.64550',CADCHF,0.64730,,,,,0.65150,0.65700,,,,0.64550,Buy limit
+5815,'5492592958',4074,'GBPUSD Stop out  NZDCHF stop out  USDJPY stop out   Yesterday was a bad day ,USDJPY,,,,,,,,,,,,
+5816,'5492592958',4075,'USDJPY sell limit @ 147.070 tp @ 145.400 tp 2 @ 142.700  Sl @ 147.400',USDJPY,147.070,,,,,145.400,142.700,,,,147.400,Sell limit
+5817,'5492592958',4076,'Set one more sell limit at @ 107.730 For same tp and sl',,107.730,,,,,sl,,,,,,Sell limit
+1987,'5492592958',1893,'XAUUSD delete target almost hit before activating  Caught all movement before activating',XAUUSD,,,,,,,,,,,,
+5818,'5492592958',4077,'AUDNZD delete pending order',AUDNZD,,,,,,,,,,,,
+5819,'5492592958',4078,'Edited',,,,,,,,,,,,,
+5821,'5492592958',4080,'Also it looks like a nice trade for me According to the Data of NFP which was released on Last Friday',,,,,,,,,,,,,
+5822,'5492592958',4081,'EURJPY Buy now @ 157.975 Tp @ 158.200 Tp2 @ 158.500  Sl @ 157.850',EURJPY,157.975,,,,,158.200,158.500,,,,157.850,Buy now
+5823,'5492592958',4082,'Exit',,,,,,,,,,,,,
+12124,'5492592958',419,'we may enter after 40 Min',,40,,,,,,,,,,,
+1988,'5492592958',1894,'NZDCAD buy limit @ 0.8007 tp @ 0.8045 tp2 @ 0.8126  SL @ 0.8990',NZDCAD,0.8007,,,,,0.8045,0.8126,,,,0.8990,Buy limit
+1989,'5492592958',1895,'XAUUSD buy now @ 1933.3 other buy limit @ 1931 tp @ 1938 tp2 @ 1943  SL @ 1929',XAUUSD,1933.3,1931,,,,1938,1943,,,,1929,Buy limit
+5824,'5492592958',4083,'XAUUSD buy now @ 1933 Other limit @ 1929 Tp @ 1943 Tp2 @ 1955  Sl @ 1926',XAUUSD,1933,1929,,,,1943,1955,,,,1926,Buy now
+8523,'5492592958',4735,'SL',,,,,,,,,,,,,
+8524,'5492592958',4736,'100+ pips running zero draw down',DOW,,,,,,,,,,,,
+5825,'5492592958',4084,'EURJPY sell limit @ 158.170 tp @ 157.720 tp 2 @ 157.150  Sl @ 158.350 [ 17 PIPS ]',EURJPY,158.170,,,,,157.720,157.150,,,,158.350,Sell limit
+8526,'5492592958',4738,'Delete pending order limit missed by 02 pips and target get Smashed',,02,,,,,,,,,,,
+8527,'5492592958',4739,'XAUUSD SELL NOW  @ 1931  TP : 1926 TP : 1916  SL : 1939',XAUUSD,1931,,,,,1926,1916,,,,1939,Sell now
+8528,'5492592958',4740,'Gold is not clear better to use small Lot ok',GOLD,,,,,,,,,,,,
+8529,'5492592958',4741,'EURUSD SELL NOW    @ 1.0748 - 1.0771  TP : 1.0725 TP : 1.0692  SL : 1.0792',EURUSD,1.0748,1.0771,,,,1.0725,1.0692,,,,1.0792,Sell now
+8530,'5492592958',4742,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+5826,'5492592958',4085,'SWING TRADE   GBPAUD Buy limit @ 1.96710 tp @ 1.097200 tp 2 @ 1.98400  Sl@ 1.96500',GBPAUD,1.96710,,,,,1.097200,1.98400,,,,1.96500,Buy limit
+8531,'5492592958',4743,'XTIUSD SELL NOW  @ 85.28 - 85.85  TP : 84.80 TP : 83.60  SL : 86.50',,85.28,85.85,,,,84.80,83.60,,,,86.50,Sell now
+5827,'5492592958',4086,'NZDCHF Buy limit @ 0.5200 TP @ 0.52450 TP 2 @ 0.53050  sl @ 0.51850',NZDCHF,0.5200,,,,,0.52450,0.53050,,,,0.51850,Buy limit
+8532,'5492592958',4744,'Make Sure If u have Same price then Enter',,,,,,,,,,,,,
+8534,'5492592958',4746,'XTIUSD TP HIT 70+ PIPS RUNNING',,,,,,,,,,,,,
+5828,'5492592958',4087,'GBPCHF sell limit @ 1.11660 other limit @ 1.11770 tp @ 1.11400 tp 2 @ 1.11050  SL @ 1.11880',GBPCHF,1.11660,1.11770,,,,1.11400,1.11050,,,,1.11880,Sell limit
+8537,'5492592958',4747,'EURJPY SELL NOW    @ 158.21  TP : 157.82 TP : 157.04  SL : 158.50',EURJPY,158.21,,,,,157.82,157.04,,,,158.50,Sell now
+8543,'5492592958',4751,'EURJPY in profit keep hold Sl move at entry now',EURJPY,,,,,,,,,,,,
+5832,'5492592958',4091,'EURJPY re_enter if hit b.e. this time use smalllot',EURJPY,,,,,,,,,,,,
+8544,'5492592958',4752,'If Breakeven hit Enter again ok',,,,,,,,,,,,,
+1991,'5492592958',1897,'XAUUSD buy now 1931.5 Tp @ 1938 Tp2 @ 1944  Sl @ 1927',XAUUSD,1931.5,,,,,1938,1944,,,,1927,Buy now
+8548,'5492592958',4754,'After 35+ pips profit - hit b.e and fly   Price change now not valid be careful about oil all broker have different prices',,,,,,,,,,,,,
+5836,'5492592958',4095,'XAUUSD Buy again @ 1930 Tp @ 1937 Tp2 @ 1947  Sl @ 1927',XAUUSD,1930,,,,,1937,1947,,,,1927,Buy
+5837,'5492592958',4096,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+1992,'5492592958',1898,'XAUUSD sl set 1924',XAUUSD,,,,,,,,,,,1924,
+8562,'5492592958',4766,'AUDJPY SELL NOW   @ 93.94  TP : 93.72 TP : 93.48  SL : 94.29',AUDJPY,93.94,,,,,93.72,93.48,,,,94.29,Sell now
+8564,'5492592958',4768,'EURUUSD Near target 2',,,,,,,,,,,,,
+8565,'5492592958',4769,'SELL AGAIN : 94.20  TP : 93.94 TP : 93.72  SL : 94.42',,94.20,,,,,93.94,93.72,,,,94.42,Sell
+8566,'5492592958',4770,'XAUEUR SELL NOW   @ 1796.5  TP : 1788 TP : 1778  SL : 1806',XAUEUR,1796.5,,,,,1788,1778,,,,1806,Sell now
+8567,'5492592958',4771,'Mostly',,,,,,,,,,,,,
+8572,'5492592958',4775,'Close 90% here Now',,,,,,,,,,,,,
+1994,'5492592958',1900,'NZDCHF buy limit @ 0.5227 tp @ 0.5263 tp2 @ 0.5339  SL @ 0.5208',NZDCHF,0.5227,,,,,0.5263,0.5339,,,,0.5208,Buy limit
+8573,'5492592958',4776,'EURNZD SELL NOW   @ 1.8241  TP : 1.8187 TP : 1.8100  SL : 1.8289',EURNZD,1.8241,,,,,1.8187,1.8100,,,,1.8289,Sell now
+5841,'5492592958',4099,'NZDCHF Buy limit @ 0.52250 tp @ 0.52520 tp 2 @ 0.52950  Sl @ 0.52150 [ 10 PIPS ]',NZDCHF,0.52250,,,,,0.52520,0.52950,,,,0.52150,Buy limit
+8574,'5492592958',4777,'NZDCHF BUY LIMIT  @ 0.5227  TP : 0.5260 TP : 0.5320  SL : 0.5207',NZDCHF,0.5227,,,,,0.5260,0.5320,,,,0.5207,Buy limit
+5842,'5492592958',4100,'XAUUSD sell limit @ 1929.40 other limit @ 1931.50 tp @ 1922 tp 2 @ 1913  Sl @ 1933.80',XAUUSD,1929.40,1931.50,,,,1922,1913,,,,1933.80,Sell limit
+5843,'5492592958',4101,'USOIL Buy limit @ 85.80 tp @ 87.20 tp 2 @ 90.00  Sl @ 84.80',USOIL,85.80,,,,,87.20,90.00,,,,84.80,Buy limit
+5844,'5492592958',4102,'EURAUD Buy limit @ 1.66840 tp @ 1.68350 tp 2 @ 1.70050  Sl @ 1.66450',EURAUD,1.66840,,,,,1.68350,1.70050,,,,1.66450,Buy limit
+5845,'5492592958',4103,'Stop out',,,,,,,,,,,,,
+5846,'5492592958',4104,'Previous GBPAUD trade still Valid',GBPAUD,,,,,,,,,,,,
+8576,'5492592958',4779,'XAUUSD SELL LIMIT  @ 1929.5 - 1931.5  TP : 1923 TP : 1918  SL : 1934',XAUUSD,1929.5,1931.5,,,,1923,1918,,,,1934,Sell limit
+8580,'5492592958',4783,'1926 manually Sell',,1926,,,,,,,,,,,Sell
+1995,'5492592958',1901,'Long term trade  XAUUSD buy now @ 1925.5 Tp @ 1937 Tp2 @ 1950  Sl @ 1915',XAUUSD,1925.5,,,,,1937,1950,,,,1915,Buy now
+5849,'5492592958',4106,'XAUUSD Buy now @ 1922 Other limit @1919 tp @ 1931 tp2 @ Open   Sl @ 1915',XAUUSD,1922,1919,,,,1931,open,,,,1915,Buy now
+5850,'5492592958',4107,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+8586,'5492592958',4788,'If you Happy and Satisfied now Close All Gold Enjoy Profit will see again later',GOLD,,,,,,,,,,,,
+8587,'5492592958',4789,'Gold in the way of 1916 but still not confirmed Just stay away from gold now',GOLD,1916,,,,,,,,,,,
+8589,'5492592958',4790,'XAUUSD BUY NOW  1921.5 - 1917  TP : 1928 TP : 1939  SL : 1912',XAUUSD,1921.5,1917,,,,1928,1939,,,,1912,Buy now
+8591,'5492592958',4791,'Delete',,,,,,,,,,,,,
+8592,'5492592958',4792,'Again and again',,,,,,,,,,,,,
+1998,'5492592958',1904,'XAUUSD valid again from 1922  Same tp and sl',XAUUSD,1922,,,,,sl,,,,,,
+8595,'5492592958',4794,'Enter again  Small lot this time',,,,,,,,,,,,,
+2000,'5492592958',1905,'XAUUSD more buy limit 1917.5  Tp @ same   Sl set 1913',XAUUSD,1917.5,,,,,sl,,,,,1913,Buy limit
+5856,'5492592958',4113,'XAUUSD buy again now @ 1918 tp @ 1931 tp 2 @ 1948  Sl @ 1913',XAUUSD,1918,,,,,1931,1948,,,,1913,Buy
+8599,'5492592958',4797,'If anyone holding close',,,,,,,,,,,,,
+2001,'5492592958',1906,'AUDCHF buy limit @ 0.5665 tp @ 0.5682 tp2 @ 0.5710  SL @ 0.56578 pips)',AUDCHF,0.5665,,,,,0.5682,0.5710,,,,0.56578,Buy limit
+2002,'5492592958',1907,'NAS100 buy limit @ 15316 tp @ 15370 tp2 @ 15500  SL @ 1528531 pips)',NAS100,15316,,,,,15370,15500,,,,1528531,Buy limit
+2003,'5492592958',1908,'USOIL buy limit @ 87.00 tp @ 88.90 tp2 @ 92.00  SL @ 86.00',USOIL,87.00,,,,,88.90,92.00,,,,86.00,Buy limit
+5867,'5492592958',4123,'close this at entry  and enter with bottom trade only',,,,,,,,,,,,,
+5868,'5492592958',4124,'200K FTMO Phase 1 starting today',,,,,,,,,,,,,
+5869,'5492592958',4125,'GBPAUD giving us some deep comfirmation in M-1 minute   set one buy limit for GBPAUD @ 1.95260 same tp and same sl',GBPAUD,1.95260,,,,,sl,,,,,,Buy limit
+8603,'5492592958',4801,'GBPAUD giving us some deep comfirmation in M-1 minute   set one buy limit for GBPAUD @ 1.95260  same tp and same sl',GBPAUD,1.95260,,,,,sl,,,,,,Buy limit
+8605,'5492592958',4803,'USOIL BUY NOW   @ 87.00  TP : 88.50 TP : 90.80  SL : 86.00',USOIL,87.00,,,,,88.50,90.80,,,,86.00,Buy now
+8607,'5492592958',4805,'AUDCHF BUY LIMIT   @ 0.5665  TP : 0.5680 TP : 0.5705  SL : 0.5657 8 Pips Only)',AUDCHF,0.5665,,,,,0.5680,0.5705,,,,0.5657,Buy limit
+5870,'5492592958',4126,'EURJPY Buy now @ 157.950 tp @ 158.350 tp 2 @ 158.800  Sl @ 157.800',EURJPY,157.950,,,,,158.350,158.800,,,,157.800,Buy now
+8608,'5492592958',4806,'EURJPY BUY NOW   @ 157.90  TP : 158.350 TP : 158.800  SL : 157.800',EURJPY,157.90,,,,,158.350,158.800,,,,157.800,Buy now
+5871,'5492592958',4127,'NZDJPY sell limit @ 86.940 tp @ 86.450 tp 2 @ 85.860  SL @ 87.080',NZDJPY,86.940,,,,,86.450,85.860,,,,87.080,Sell limit
+8609,'5492592958',4807,'NZDJPY SELL LIMIT   @ 86.940  TP : 86.531 TP : 86.025  SL : 87.080',NZDJPY,86.940,,,,,86.531,86.025,,,,87.080,Sell limit
+8610,'5492592958',4808,'Secure your Gold Trades Close your worst entries hold only best entries with breakeven or close All',GOLD,,,,,,,,,,,,
+5873,'5492592958',4129,'XAUUSD Yesterday gold trade still smashed zero drawdown 70+ pips running from 2nd trade',GOLD,,,,,,,,,,,,
+5874,'5492592958',4130,'Set sl @ 57.650  More buy @ 157.840.',,,,,,,,,,,,57.650,Buy
+8613,'5492592958',4810,'Set SL : 57.650  More buy @ 157.840',,,,,,,,,,,,57.650,Buy
+8614,'5492592958',4811,'AUDUSD SELL NOW  @ 0.6381',AUDUSD,0.6381,,,,,,,,,,,Sell now
+8616,'5492592958',4813,'XAUUSD SELL NOW  @ 1923  TP : 1918 TP : 1913  SL : 1928',XAUUSD,1923,,,,,1918,1913,,,,1928,Sell now
+8618,'5492592958',4815,'.',,,,,,,,,,,,,
+5878,'5492592958',4134,'Recover trade   EURJPY sell limit @ 157.680 tp @ 157.220 tp 2 @ 156.400  Sl @ 157..850 [ 17 PIPS ]',EURJPY,157.680,,,,,157.220,156.400,,,,,Sell limit
+5879,'5492592958',4135,'GBPAUD refine entry   buy limit @ 1.95320 other limit @ 1.95190 tp @ 1.96360 tp 2 @ 1.97400  Sl @ 1.94950',GBPAUD,1.95320,1.95190,,,,1.96360,1.97400,,,,1.94950,Buy limit
+5881,'5492592958',4137,'NAS100 sell limit @ 15350 tp @ 15260 tp 2 @ 15080  Sl @ 15400',NAS100,15350,,,,,15260,15080,,,,15400,Sell limit
+5883,'5492592958',4139,'USDJPY sell now @ 147.380 Other limit @ 146.610 Sl @ 157.750',USDJPY,147.380,146.610,,,,,,,,,157.750,Sell now
+5885,'5492592958',4141,'SCALP TRADE   EURGBP sell now @ 0.85715 other limit @ 0.85780 tp @ 0.85450 tp 2 @ 0.84890  Sl @ 0.85895',EURGBP,0.85715,0.85780,,,,0.85450,0.84890,,,,0.85895,Sell now
+2007,'5492592958',1912,'EURUSD sell limit @ 1.0710  tp @ 1.0685 25 pips 2.5%)  sl @ 1.0719 09 pips)',EURUSD,1.0710,,,,,1.0685,,,,,1.0719,Sell limit
+2009,'5492592958',1914,'EURAUD buy limit @ 1.6693 tp @ 1.6790 tp2 @ 1.6922  SL @ 1.6643',EURAUD,1.6693,,,,,1.6790,1.6922,,,,1.6643,Buy limit
+2010,'5492592958',1915,'XAUUSD sell limit @ 1926.15 tp @ 1923.3 tp2 @ 1020.5  SL @ 1927.715 pips)',XAUUSD,1926.15,,,,,1923.3,1020.5,,,,1927.715,Sell limit
+8627,'5492592958',4819,'EURUSD SELL LIMIT   @ 1.0710  TP : 1.0685  SL : 1.0719 09 Pips)',EURUSD,1.0710,,,,,1.0685,,,,,1.0719,Sell limit
+8628,'5492592958',4820,'XAUUSD SELL LIMIT  @ 1926.10  TP : 1923.50 TP : 1920.50  SL : 1928',XAUUSD,1926.10,,,,,1923.50,1920.50,,,,1928,Sell limit
+8629,'5492592958',4821,'EURAUD BUY LIMIT  @ 1.6693  TP : 1.6784 TP : 1.6903  SL : 1.6643',EURAUD,1.6693,,,,,1.6784,1.6903,,,,1.6643,Buy limit
+8630,'5492592958',4822,'NZDCHF PENDING ORDER DELETE',NZDCHF,,,,,,,,,,,,
+8631,'5492592958',4823,'What pending orders we have send me screenshot to confirm',,,,,,,,,,,,,
+8632,'5492592958',4824,'USDCAD GBPAUD  DELETE BOTH',USDCAD,,,,,,,,,,,,
+8633,'5492592958',4825,'We hit 2-3 pairs SL in last 2-3 days  But all have Small SL don’t worry',,23,,,,,,,,,,23,
+5891,'5492592958',4146,'XAUUSD sell limit @ 1924.5 other limit @ 1926.1 TP @ 1921 TP 2 @ 1912  Sl @ 1928 [ 35 PIPS ]',XAUUSD,1924.5,1926.1,,,,1921,1912,,,,1928,Sell limit
+8634,'5492592958',4826,'Check SL again',,,,,,,,,,,,,
+5895,'5492592958',4150,'Delete 2nd limit',,,,,,,,,,,,,
+8640,'5492592958',4830,'If anyone Missed it  Don’t Enter again',,,,,,,,,,,,,
+5896,'5492592958',4151,'Long term trade  US30 sell now @ 34510 tp @ 34380 tp2 @ 34100  Sl @ 34630',US30,34510,,,,,34380,34100,,,,34630,Sell now
+5897,'5492592958',4152,'Take one more sell now @ 34565 Sl shift to @ 34670  Long term trade',,34565,,,,,,,,,,34670,Sell now
+5900,'5492592958',4155,'US30 NEXT MOVE POSSIBLE',US30,,,,,,,,,,,,
+5901,'5492592958',4156,'XAUUSD Buy now again @ 1924 Tp @ 1931 tp2 @ 1947  Sl @ 1917',XAUUSD,1924,,,,,1931,1947,,,,1917,Buy now
+5904,'5492592958',4159,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+5905,'5492592958',4160,'XAUUSD buy more @ 1921',XAUUSD,1921,,,,,,,,,,,Buy
+5906,'5492592958',4161,'Sl shift to @ 1915 for safety hold trades',,,,,,,,,,,,1915,
+8642,'5492592958',4832,'XAUUSD BUY NOW   @  1919  TP : 1923 TP : 1929  SL : 1914',XAUUSD,1919,,,,,1923,1929,,,,1914,Buy now
+5910,'5492592958',4164,'Actual report is here!  We are modifying it with same trades sl & same trades blue pips Results will be 100% accuracy  Only Blue pip will cut Red pip on single pair',,,,,,,,,,,,,
+8643,'5492592958',4833,'Set SL to entry now',,,,,,,,,,,,,
+5915,'5492592958',4170,'My prayers for Moroccon borthers and sisters who got affected by the Earthquake. May things get easier for you.',,,,,,,,,,,,,
+5916,'5492592958',4171,'?',,,,,,,,,,,,,
+5917,'5492592958',4172,'.',,,,,,,,,,,,,
+5918,'5492592958',4173,'.',,,,,,,,,,,,,
+5919,'5492592958',4174,'.',,,,,,,,,,,,,
+5920,'5492592958',4175,'.',,,,,,,,,,,,,
+5921,'5492592958',4176,'.',,,,,,,,,,,,,
+5922,'5492592958',4177,'.',,,,,,,,,,,,,
+5923,'5492592958',4178,'.',,,,,,,,,,,,,
+5924,'5492592958',4179,'.',,,,,,,,,,,,,
+5925,'5492592958',4180,'M',,,,,,,,,,,,,
+2028,'5492592958',1924,'Personal account use 1_2% risk   Prop firm accounts use 0.50% risk  Risk management colculator use your 0.50% risk by dividing 1% by 2',,,,,,,,,,,,,
+2029,'5492592958',1925,'This colculator will gave you 1%',,,,,,,,,,,,,
+8658,'5492592958',4837,'MMSM Template Market Maker Sell Model)  1. Original Consolidation - Green box on the left  2. LRB Low Risk Buy) - Blue box  3. SMR Smart Money Reversal) - Grey box [this is the reversal of the the MMSM]   4. LRS Low Risk Sell) - Red box [bearish OTE,,,,,,,,,,,,,Sell
+5928,'5492592958',4182,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+5929,'5492592958',4183,'CADCHF NEXT MOVE POSSIBLE',CADCHF,,,,,,,,,,,,
+2030,'5492592958',1926,'AUDNZD sell now @ 1.0868 tp @ 1.0840 tp2 @ 1.0808  SL @ 1.0880 12 pips)',AUDNZD,1.0868,,,,,1.0840,1.0808,,,,1.0880,Sell now
+8661,'5492592958',4839,'AUDNZD SELL NOW   @ 1.0868  SL - 1.0880',AUDNZD,1.0868,,,,,,,,,,1.0880,Sell now
+2031,'5492592958',1927,'CADCHF buy limit @ 0.6537 tp @ 0.6587 tp2 @ 0.6655  SL @ 0.651027 pips)',CADCHF,0.6537,,,,,0.6587,0.6655,,,,0.651027,Buy limit
+8663,'5492592958',4841,'CADCHF BUY LIMIT   @ 0.6537  TP : 0.6570 TP : 0.6610  SL : 0.6509',CADCHF,0.6537,,,,,0.6570,0.6610,,,,0.6509,Buy limit
+8664,'5492592958',4842,'SL was only 28 Pips Only',,,,,,,,,,,,28,
+2032,'5492592958',1928,'GBPCHF sell limit @ 1.1162 tp @ 1.1110 tp2 @ 1.1060  SL @ 1.119432 pips)',GBPCHF,1.1162,,,,,1.1110,1.1060,,,,1.119432,Sell limit
+2033,'5492592958',1929,'NAS100 sell now @ 15393 tp @ 15170 tp2 @ 14888  SL @ 15508 110 points )  dont use this on prop firm',NAS100,15393,,,,,15170,14888,,,,15508,Sell now
+8665,'5492592958',4843,'GBPCHF SELL LIMIT   @ 1.1162  TP : 1.1116 TP : 1.1070  SL : 1.1194',GBPCHF,1.1162,,,,,1.1116,1.1070,,,,1.1194,Sell limit
+8666,'5492592958',4844,'NAS100 SELL NOW   @ 15390  TP : 15200 TP : 15000  SL : 15508',NAS100,15390,,,,,15200,15000,,,,15508,Sell now
+8668,'5492592958',4846,'GBPJPY BUY NOW   @ 183.00  TP : 183.34 TP : 183.89  SL : 182.51',GBPJPY,183.00,,,,,183.34,183.89,,,,182.51,Buy now
+8669,'5492592958',4847,'CHFJPY BUY NOW   @ 164.08  TP : 164.44 TP : 165.13  SL : 163.63',CHFJPY,164.08,,,,,164.44,165.13,,,,163.63,Buy now
+8670,'5492592958',4848,'GBPNZD BUY NOW   @ 2.1140 - 2.1100  TP : 2.1185 TP : 2.1240  SL : 2.1070',GBPNZD,2.1140,2.1100,,,,2.1185,2.1240,,,,2.1070,Buy now
+8672,'5492592958',4850,'Many Signals was Posted Use Money Mangment',,,,,,,,,,,,,
+8673,'5492592958',4851,'XAUEUR SELL NOW   @ 1796  TP : 1791 TP : 1783  SL : 1802',XAUEUR,1796,,,,,1791,1783,,,,1802,Sell now
+8674,'5492592958',4852,'EURNZD BUY NOW   @ 1.8108  TP : 1.8141 TP : 1.8187  SL : 1.8168',EURNZD,1.8108,,,,,1.8141,1.8187,,,,1.8168,Buy now
+2034,'5492592958',1930,'XAUUSD buy limit @ 1921.7 tp @ 1927 tp2 @ 1935  SL @ 191837 pips)',XAUUSD,1921.7,,,,,1927,1935,,,,191837,Buy limit
+5933,'5492592958',4187,'US30 sell now @ 34670 tp @ 34450 tp 2 @ 34150  Sl @ 34750 [ 80 pips ]',US30,34670,,,,,34450,34150,,,,34750,Sell now
+5934,'5492592958',4188,'XAUUSD Buy limit again @ 1923.80  Other limit @ 1921.70 tp @ 1930 tp 2 @ 1936  SL @ 1918',XAUUSD,1923.80,1921.70,,,,1930,1936,,,,1918,Buy limit
+8681,'5492592958',4858,'XAUUSD BUY LIMIT  @ 1921.8  TP : 1926 TP : 1932  SL : 1917.8',XAUUSD,1921.8,,,,,1926,1932,,,,1917.8,Buy limit
+5935,'5492592958',4189,'NAS100 sell now again @ 15385 TP @ 15280 tp 2 @ 15080  Sl @ 15450',NAS100,15385,,,,,15280,15080,,,,15450,Sell now
+5936,'5492592958',4190,'Activated and running',,,,,,,,,,,,,
+8684,'5492592958',4861,'GBPAUD BUY NOW   @ 1.9482 - 1.9452  TP : 1.9525 TP : 1.9578  SL : 1.9420',GBPAUD,1.9482,1.9452,,,,1.9525,1.9578,,,,1.9420,Buy now
+8685,'5492592958',4862,'Use small lot',,,,,,,,,,,,,
+5937,'5492592958',4191,'GBPAUD BUY LIMIT @ 1.94570 OTHER LIMIT @ 1.94400 TP @ 1.95400 TP 2 @ 1.96200  sL @ 1.94250',GBPAUD,1.94570,1.94400,,,,1.95400,1.96200,,,,1.94250,Buy limit
+5938,'5492592958',4192,'Activated for me',,,,,,,,,,,,,
+5939,'5492592958',4193,'AUDCHF sell now @ 0.57350 tp @ 0.57140 tp 2 @ 0.56750  Sl @ 0.54450',AUDCHF,0.57350,,,,,0.57140,0.56750,,,,0.54450,Sell now
+5940,'5492592958',4194,'EURAUD Buy now @ 1.66760 tp @ 1.67650 tp 2 @ 1.68400  Sl @ 1.66500',EURAUD,1.66760,,,,,1.67650,1.68400,,,,1.66500,Buy now
+5941,'5492592958',4195,'Edited',,,,,,,,,,,,,
+5943,'5492592958',4196,'Hi',,,,,,,,,,,,,
+5945,'5492592958',4197,'.',,,,,,,,,,,,,
+5947,'5492592958',4199,'EURAUD sl edited @ 1.55450',EURAUD,,,,,,,,,,,1.55450,
+5948,'5492592958',4200,'More sell now @ 15425 Sl shift ti @ 15510',,15425,,,,,,,,,,15510,Sell now
+5949,'5492592958',4201,'Sl editied @ 1.66450',,,,,,,,,,,,1.66450,
+8687,'5492592958',4864,'EURAUD BUY NOW   @ 1.6652  TP : 1.6685 TP : 1.6821  SL : 1.6625',EURAUD,1.6652,,,,,1.6685,1.6821,,,,1.6625,Buy now
+12136,'5492592958',428,'Hit Stop loss  - 5 %',,,,,,,,,,,,,
+5950,'5492592958',4202,'Audchf exit',AUDCHF,,,,,,,,,,,,
+5951,'5492592958',4203,'GBPCHF sell now @ 1.11670 tp @ 1.11280 tp 2 @ 1.10570  Sl @ 1.11800',GBPCHF,1.11670,,,,,1.11280,1.10570,,,,1.11800,Sell now
+8689,'5492592958',4866,'XAUUSD SELL NOW  @ 1928  - 1932  TP : 1922 TP : 1915  SL : 1935',XAUUSD,1928,1932,,,,1922,1915,,,,1935,Sell now
+2035,'5492592958',1931,'XAUUSD triggered if missed enter manual',XAUUSD,,,,,,,,,,,,
+5953,'5492592958',4205,'GBPCHF sell again @ 1.11700 tp @ 1.11280 tp 2 @ 1.10600  Sl @ 1.11950',GBPCHF,1.11700,,,,,1.11280,1.10600,,,,1.11950,Sell
+5955,'5492592958',4206,'Remmebe',,,,,,,,,,,,,
+8703,'5492592958',4878,'GBPUSD SELL NOW   @ 1.2526  TP : 1.2493 TP : 1.2444  SL : 1.2567',GBPUSD,1.2526,,,,,1.2493,1.2444,,,,1.2567,Sell now
+8704,'5492592958',4879,'Small lot',,,,,,,,,,,,,
+8709,'5492592958',4881,'EURGBP SELL LIMIT   @ 0.8591  TP : 0.8570 TP : 0.8546  SL : 0.8607',EURGBP,0.8591,,,,,0.8570,0.8546,,,,0.8607,Sell limit
+8710,'5492592958',4882,'XAUUSD SELL NOW  @ 1924 - 1926  TP : 1919 TP : 1914  SL : 1932',XAUUSD,1924,1926,,,,1919,1914,,,,1932,Sell now
+8711,'5492592958',4883,'AUDCAD SELL NOW   @ 0.8737  TP : 0.8718 TP : 0.8688  SL : 0.8765',AUDCAD,0.8737,,,,,0.8718,0.8688,,,,0.8765,Sell now
+8712,'5492592958',4884,'XAUUSD SELL LIMIT   @ 1926 - 1929  TP : 1921 TP : 1915  SL : 1933',XAUUSD,1926,1929,,,,1921,1915,,,,1933,Sell limit
+2037,'5492592958',1933,'XAUUSD enter again @ 1921 Tps same   Sl @ 1916',XAUUSD,1921,,,,,,,,,,1916,
+8716,'5492592958',4887,'Tp missed by few pips Sl move entry',,,,,,,sl,,,,,,
+8717,'5492592958',4888,'Tp',,,,,,,,,,,,,
+8718,'5492592958',4889,'Tp',,,,,,,,,,,,,
+8719,'5492592958',4890,'Tp',,,,,,,,,,,,,
+5960,'5492592958',4212,'XAUUSD take re_entry from @ 1920  Sl shift to @ 1915 for safety',XAUUSD,1920,,,,,,,,,,1915,
+5961,'5492592958',4213,'CHFJPY sell limit @ 165.320  Tp @ 164.460  Tp2 @ 162.950   Sl @ 165.580 20 pip)',CHFJPY,165.320,,,,,164.460,162.950,,,,165.580,Sell limit
+5963,'5492592958',4215,'NZDCAD buy limit @ 0.80170 Other limit @ 0.80100 tp @ 0.80600 tp2 @ 0.81200  Sl @ 0.79980',NZDCAD,0.80170,0.80100,,,,0.80600,0.81200,,,,0.79980,Buy limit
+2039,'5492592958',1936,'GBPJPY buy limit @ 182.90 tp @ 183.48 tp2 @ 184.50  SL @ 182.6030 pips)',GBPJPY,182.90,,,,,183.48,184.50,,,,182.6030,Buy limit
+2042,'5492592958',1939,'GBPNZD sell limiT @ 2.1159 tp @ 2,GBPNZD,2.1159,,,,,,,,,,,Sell limit
+8723,'5492592958',4894,'GBPJPY BUY LIMIT   @ 182.90  TP : 183.45 TP : 184.30  SL : 182.56',GBPJPY,182.90,,,,,183.45,184.30,,,,182.56,Buy limit
+2043,'5492592958',1940,'NZDUSD buy now @ 0.5894 tp @ 0.5933 tp2 @ 0.5988  sl @ 0.587024 pips)',NZDUSD,0.5894,,,,,0.5933,0.5988,,,,0.587024,Buy now
+2044,'5492592958',1941,'XAUUSD buy now @ 1915 Tp @ 1925 Tp2 @ 1934.5  Sl @ 1908',XAUUSD,1915,,,,,1925,1934.5,,,,1908,Buy now
+8726,'5492592958',4896,'XAUUSD BUY NOW   @ 1915 - 1912  TP : 1920 TP : 1929  SL : 1908',XAUUSD,1915,1912,,,,1920,1929,,,,1908,Buy now
+8727,'5492592958',4897,'NZDUSD BUY NOW   @ 0.5894  TP : 0.5928 TP : 0.5960  SL : 0.5870',NZDUSD,0.5894,,,,,0.5928,0.5960,,,,0.5870,Buy now
+5966,'5492592958',4218,'XAUUSD buy again @ 1915 Tp @ 1924 Tp2 @ 1938  Sl @.1908',XAUUSD,1915,,,,,1924,1938,,,,,Buy
+8728,'5492592958',4898,'GBPNZD SELL LIMIT  @ 2.1159  TP : 2.1089 TP : 2.0980  SL : 2.1218',GBPNZD,2.1159,,,,,2.1089,2.0980,,,,2.1218,Sell limit
+8729,'5492592958',4899,'Close this trades will see later',,,,,,,,,,,,,
+8730,'5492592958',4900,'I’m accepting gold more down maybe 1910 will buy this buy 1915 buy zone bit risky',GOLD,1910,1915,,,,,,,,,,Buy
+5968,'5492592958',4220,'XAUUSD more buy limit @ 1911  tp @ 1924 tp 2 @ 1942   Sl @ 1904 [ FOR al ]',XAUUSD,1911,,,,,1924,1942,,,,1904,Buy limit
+5969,'5492592958',4221,'NZDCHF sell limit @ 0.52725 Other limit @ 0.52790 tp @ 0.52400 tp 2 @ 0.52050  SL @ 0.52870',NZDCHF,0.52725,0.52790,,,,0.52400,0.52050,,,,0.52870,Sell limit
+5970,'5492592958',4222,'EURGBP Buy limit @ 0.85660 tp @ 0.8600 tp 2 @ 0.86330  SL @ 0.85550',EURGBP,0.85660,,,,,0.8600,0.86330,,,,0.85550,Buy limit
+2045,'5492592958',1942,'USDCAD buy now @ 1.3576 Tp @ 1.3600 Tp2 @ 1.3647  Sl @ 1.356808 pips)',USDCAD,1.3576,,,,,1.3600,1.3647,,,,1.356808,Buy now
+8736,'5492592958',4902,'USDCAD BUY NOW  @ 1.3576  TP : 1.3600 TP : 1.3647  SL : 1.356808 pips)',USDCAD,1.3576,,,,,1.3600,1.3647,,,,1.356808,Buy now
+8737,'5492592958',4903,'XAUUSD BUY NOW   @ 1910 - 1916  TP : 1915 TP : 1920  SL : 1902',XAUUSD,1910,1916,,,,1915,1920,,,,1902,Buy now
+8738,'5492592958',4904,'Second limit 1906',,1906,,,,,,,,,,,
+2047,'5492592958',1944,'XAUUSD use same sl  Took buy entry from 1909',XAUUSD,,,,,,,,,,,1909,Buy
+5973,'5492592958',4224,'US30 sell now @ 34770 tp @ 34650 tp2 @ 34450  Sl @.34880',US30,34770,,,,,34650,34450,,,,,Sell now
+5974,'5492592958',4225,'UDDCAD buy limit @ 1.35150 tp @ 1.36100 tp 2 @ 1.36900  Sl @ 1.35900',,1.35150,,,,,1.36100,1.36900,,,,1.35900,Buy limit
+5975,'5492592958',4226,'long tp @ 34150',,,,,,,34150,,,,,,
+5979,'5492592958',4230,'Take one direct sell now @ 165.05 tp and sl use previous',,165.05,,,,,sl,,,,,,Sell now
+2053,'5492592958',1950,'NAS100 sell limit @ 15360 tp @ 15240 tp2 @ 15050  SL @ 15475',NAS100,15360,,,,,15240,15050,,,,15475,Sell limit
+8749,'5492592958',4911,'NAS100 SELL LIMIT  @ 15360  TP : 15260 TP : 15100  SL : 15480',NAS100,15360,,,,,15260,15100,,,,15480,Sell limit
+2054,'5492592958',1951,'NZDUSD move 1:1rr  Now closed at breakeven',NZDUSD,,,,,,,,,,,,
+8750,'5492592958',4912,'Close now at entry',,,,,,,,,,,,,
+5982,'5492592958',4233,'GBPCHF sell limit @ 1.11490 tp @2 1.11030 tp 2 @ 1.10300  Sl @ 1.11680',GBPCHF,1.11490,,,,,1.11030,1.10300,,,,1.11680,Sell limit
+5983,'5492592958',4234,'2ND ENTRYAFTER LFT CONFIRMATION   CHFJPY Sell limit @ 165.150 tp @ 164.620 tp 2 @ 163.920  SL @ 165.300 [ 15 pips ]',CHFJPY,165.150,,,,,164.620,163.920,,,,165.300,Sell limit
+5984,'5492592958',4235,'Use 0.001% risk for new limit  Set one at @ 1.11410 Sl & tp same  Keep previous limit as well',,1.11410,,,,,,,,,,,
+5985,'5492592958',4236,'Activation missed by 02 pips enter manual',,02,,,,,,,,,,,
+5986,'5492592958',4237,'Sl extend 10 pips more because of CPI @ 1.34800',,,,,,,,,,,,10,
+2056,'5492592958',1953,'XAUUSD sell now @ 1910 other sell limit @ 1915 tp @ 1899 tp2 @ 1881  SL @ 1923',XAUUSD,1910,1915,,,,1899,1881,,,,1923,Sell limit
+2057,'5492592958',1954,'use small lot strong news ahead and sl is bigger',,,,,,,,,,,,,
+5987,'5492592958',4238,'NASDAQ SELL STOP 15270 NASDAQ BUY STOP 15350  USE LESS RISK',NASDAQ,15270,15350,,,,,,,,,,Sell stop
+2058,'5492592958',1955,'XAUUSD on fire 50+ pips sl move to entry point and take partially',XAUUSD,,,,,,,,,,,,
+5989,'5492592958',4240,'CHFJPY VIEW BOOOOOOOOOOOM IN M1',CHFJPY,,,,,,,,,,,,
+5992,'5492592958',4243,'Gold buy trades exit',GOLD,,,,,,,,,,,,Buy
+5993,'5492592958',4244,'XAUUSD sell now @ 1912',XAUUSD,1912,,,,,,,,,,,Sell now
+8753,'5492592958',4914,'XAUUSD SELL NOW  @ 1912  TP & SL POSTED SOON',XAUUSD,1912,,,,,sl,,,,,,Sell now
+5994,'5492592958',4245,'Tp @ 1900 tp 2 @ 1885  Sl @ 1921',,,,,,,1900,1885,,,,1921,
+5995,'5492592958',4246,'CHFJPY SCALP ENTREIS',CHFJPY,,,,,,,,,,,,
+5996,'5492592958',4247,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+8754,'5492592958',4915,'Limit Active and Running 50+ pips close All',,,,,,,,,,,,,
+8755,'5492592958',4916,'Add more Sell Limit @  1915  SL : 1923',,1915,,,,,,,,,,1923,Sell limit
+8757,'5492592958',4917,'SET TPS  TP : 1906 TP : 1901',,,,,,,1906,1901,,,,,
+8758,'5492592958',4918,'Market is very slow no volume',,,,,,,,,,,,,
+8759,'5492592958',4919,'Active',,,,,,,,,,,,,
+8762,'5492592958',4920,'Nas100 active and running 90+ pips profit SL to entry and close 60% profit',NAS100,,,,,,,,,,,,
+8769,'5492592958',4923,'Send me Profit screenshot all my boys',,,,,,,,,,,,,
+8774,'5492592958',4924,'I’m still holding 20% I close 80% already',,,,,,,,,,,,,
+12140,'5492592958',432,'get ready for GBP/AUD',GBP/AUD,,,,,,,,,,,,
+12143,'5492592958',434,'— Close - 25  PIP',,,,,,,,,,,,,
+5998,'5492592958',4249,'US30 Sell now @ 34675 tp @ 34550 tp2 @ 34150  Sl @ 34760',US30,34675,,,,,34550,34150,,,,34760,Sell now
+2064,'5492592958',1961,'XAUUSD sell limit @ 1909 tp @ 1904 tp2 @ 1896  SL @ 1912 30 pips)',XAUUSD,1909,,,,,1904,1896,,,,1912,Sell limit
+8785,'5492592958',4928,'XAUUSD SELL LIMIT   @ 1909  TP : 1904 TP : 1900  SL : 1912 [30 pips]',XAUUSD,1909,,,,,1904,1900,,,,1912,Sell limit
+6004,'5492592958',4255,'Watching new setups ..',,,,,,,,,,,,,
+8788,'5492592958',4930,'EURUSD BUY NOW   @ 1.0728  TP : 1.0763 TP : 1.0828  SL : 1.0700',EURUSD,1.0728,,,,,1.0763,1.0828,,,,1.0700,Buy now
+6006,'5492592958',4257,'EURJPY sell limit @ 158.340 tp @ 157.890 tp 2 @ 156.950  Sl @ 158.470 [ 13 PIPS ]',EURJPY,158.340,,,,,157.890,156.950,,,,158.470,Sell limit
+6007,'5492592958',4258,'SCALP TRADE   XAUUSD sell limit @ 1909.10 tp @ 1904 tp 2 @ 1897  Sl @ 1913',XAUUSD,1909.10,,,,,1904,1897,,,,1913,Sell limit
+8790,'5492592958',4931,'Set New SL',,,,,,,,,,,,,
+8791,'5492592958',4932,'CHFJPY SELL NOW   @ 164.97  TP : 164.61 TP : 163.84  SL : 1.65.33',CHFJPY,164.97,,,,,164.61,163.84,,,,,Sell now
+6011,'5492592958',4262,'USDCAD ACTIVATED',USDCAD,,,,,,,,,,,,
+2065,'5492592958',1962,'Triggered',,,,,,,,,,,,,
+6015,'5492592958',4265,'NZDUSD sell now @ 0.59295 tp @ 0.59050 tp 2@ 0.58780  Sl @2 0.59400',NZDUSD,0.59295,,,,,0.59050,0.58780,,,,0.59400,Sell now
+6016,'5492592958',4266,'EURUSD buy now 1.06950',EURUSD,1.06950,,,,,,,,,,,Buy now
+8795,'5492592958',4935,'CHFJPY 30+ pips running  Save half lot sl move at entry point',CHFJPY,,,,,,,,,,,,
+8796,'5492592958',4936,'Unlikely Euro news against our signal  Sl hit 28– pips',,,,,,,,,,,,,
+8797,'5492592958',4937,'XAUUSD 30+ pips running',XAUUSD,,,,,,,,,,,,
+6019,'5492592958',4269,'Exit now or if you want to hold use 0.05 % risk only',,0.05,,,,,,,,,,,
+2069,'5492592958',1965,'USDCAD buy now @ 1.3518 tp @ 1.3575 tp2 @ 1.3690  sl @ 1.3485',USDCAD,1.3518,,,,,1.3575,1.3690,,,,1.3485,Buy now
+8798,'5492592958',4938,'USDCAD BUY NOW  @ 1.3518  TP : 1.3570 TP : 1.3690  SL : 1.3482',USDCAD,1.3518,,,,,1.3570,1.3690,,,,1.3482,Buy now
+8799,'5492592958',4939,'Booooom',,,,,,,,,,,,,
+8801,'5492592958',4940,'Manage your tarades',,,,,,,,,,,,,
+8803,'5492592958',4941,'On Fire',,,,,,,,,,,,,
+12148,'5492592958',437,'EURUSD  Sell Now : 1.06700   Tp 1 : 60 PIP  Tp 2 : 120 PIP  Tp 3 : 180 PIP   Stop loss : 1.07300 / 60 PIP',EURUSD,1.06700,,,,,60,120,180,,,,Sell now
+8804,'5492592958',4942,'If happy atleast 80% profit close in all trades',,,,,,,,,,,,,
+2071,'5492592958',1967,'Thanks for cooperation',,,,,,,,,,,,,
+8805,'5492592958',4943,'How much Profit for today may I know ??',,,,,,,,,,,,,
+6026,'5492592958',4276,'Buy more @ 1.06500 Sl set at @ 1.05850 Long term buy',,1.06500,,,,,,,,,,1.05850,Buy
+6032,'5492592958',4281,'GBPJPY sell now @ 183.790 Tp and sl post soon',GBPJPY,183.790,,,,,sl,,,,,,Sell now
+6033,'5492592958',4282,'GBPJPY sell now @ 183.800 other limit @ 183.920 tp @ 183.300 tp 2 @ 181.950  SL @ 184.210',GBPJPY,183.800,183.920,,,,183.300,181.950,,,,184.210,Sell now
+8808,'5492592958',4946,'CHFJPY SELL NOW  @ 165.06  TP : 164.74 TP : 164.31  SL : 165.47',CHFJPY,165.06,,,,,164.74,164.31,,,,165.47,Sell now
+8809,'5492592958',4947,'XAUUSD BUY LIMIT   @ 1916 - 1914  TP : 1923 TP : 1929  SL : 1911',XAUUSD,1916,1914,,,,1923,1929,,,,1911,Buy limit
+8811,'5492592958',4949,'Friday is risky day Makr Sure to Use Small lot for Today',,,,,,,,,,,,,
+8812,'5492592958',4950,'GBPJPY SELL NOW   @ 183.76  TP : 183.40 TP : 182.79  SL : 184.28',GBPJPY,183.76,,,,,183.40,182.79,,,,184.28,Sell now
+2074,'5492592958',1970,'XAUUSD sell limit @ 1918.7 tp @ 1914 tp2 @ 1908  sl @ 1921',XAUUSD,1918.7,,,,,1914,1908,,,,1921,Sell limit
+8815,'5492592958',4953,'Close All Gold in 20+ Pips',GOLD,,,,,,,,,,,,
+2075,'5492592958',1971,'AUDUSD SELL NOW @ 0.6446  TP @ 0.6417  SL @ 0.646216 PIPS)',AUDUSD,0.6446,,,,,0.6417,,,,,0.646216,Sell now
+8816,'5492592958',4954,'AUDUSD SELL NOW   @ 0.6446  TP : 0.6417  SL : 0.6462',AUDUSD,0.6446,,,,,0.6417,,,,,0.6462,Sell now
+6037,'5492592958',4286,'XAUUSD sell limit @ 1919  Other limit @ 1921.50  tp @ 1913 Tp 2 @ 1905  Sl @ 1924',XAUUSD,1919,1921.50,,,,1913,1905,,,,1924,Sell limit
+8817,'5492592958',4955,'XAUUSD SELL LIMIT  @ 1919 - 1921  TP : 1914.5 TP : 1910  SL : 1924.50',XAUUSD,1919,1921,,,,1914.5,1910,,,,1924.50,Sell limit
+8818,'5492592958',4956,'Take one Direct Sell at Market Price',,,,,,,,,,,,,Sell
+6038,'5492592958',4287,'Enter manual from @ 1918',,1918,,,,,,,,,,,
+2077,'5492592958',1973,'XAUUSD sl set 1924.5',XAUUSD,,,,,,,,,,,1924.5,
+2078,'5492592958',1974,'XAUUSD stop out 23-- pips',XAUUSD,,,,,,,,,,,,
+6039,'5492592958',4288,'XAUUSD sl set at @ 1931  For long safety',XAUUSD,,,,,,,,,,,1931,
+2079,'5492592958',1975,'XAUUSD sell now @ 1922.5 tp @ 1917 tp2 @ 1912  SL @ 1925 25 pips)',XAUUSD,1922.5,,,,,1917,1912,,,,1925,Sell now
+2080,'5492592958',1976,'t',,,,,,,,,,,,,
+2081,'5492592958',1977,'wait',,,,,,,,,,,,,
+8819,'5492592958',4957,'XAUUSD SELL NOW  @ 1923  TP : 1917 TP : 1912  SL : 1926 for both trades)',XAUUSD,1923,,,,,1917,1912,,,,1926,Sell now
+8821,'5492592958',4959,'XAUUSD SELL LIMIT  @ 1927  TP : 1922.80 TP : 1912  SL : 1932',XAUUSD,1927,,,,,1922.80,1912,,,,1932,Sell limit
+2083,'5492592958',1979,'XAUUSD sell now @ 1924.5 tp @ 1911 tp2 @ 1890  Sl @ 1932',XAUUSD,1924.5,,,,,1911,1890,,,,1932,Sell now
+8822,'5492592958',4960,'Active',,,,,,,,,,,,,
+8826,'5492592958',4964,'This trade also hit tp',,,,,,,,,,,,,
+2085,'5492592958',1981,'You will get these all VIP channels access with gfr vip .  Contact @Paragons_FX',,,,,,,,,,,,,
+6045,'5492592958',4293,'NZDUSD NEXT MOVE POSSIBLE',NZDUSD,,,,,,,,,,,,
+6046,'5492592958',4294,'CHFJPY NEXT MOVE POSSIBLE',CHFJPY,,,,,,,,,,,,
+6048,'5492592958',4296,'EURCHF NEXT MOVE POSSIBLE',EURCHF,,,,,,,,,,,,
+6049,'5492592958',4297,'AUDCHF NEXT MOVE POSSIBLE',AUDCHF,,,,,,,,,,,,
+6050,'5492592958',4298,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+6051,'5492592958',4299,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+8839,'5492592958',4967,'XAUUSD SELL NOW  @ 1928.5 - 1931  TP : 1924 TP : 1917  SL : 1935',XAUUSD,1928.5,1931,,,,1924,1917,,,,1935,Sell now
+8840,'5492592958',4968,'USDCAD BUY NOW   @ 1.3500  TP : 1.3526 TP : 1.3567  SL : 1.3465',USDCAD,1.3500,,,,,1.3526,1.3567,,,,1.3465,Buy now
+2093,'5492592958',1984,'GBPJPY buy limit @ 182.72 tp @ 183.12 tp2 @ 183.67  SL @ 182.4824 pips)',GBPJPY,182.72,,,,,183.12,183.67,,,,182.4824,Buy limit
+8842,'5492592958',4969,'GBPJPY BUY LIMIT   @ 182.72  TP : 183.10 TP : 183.62  SL : 182.47',GBPJPY,182.72,,,,,183.10,183.62,,,,182.47,Buy limit
+6055,'5492592958',4304,'GBPCAD sell limit @ 1.67805 tp @ 1.67250 tp 2 @ 1.66450  Sl @ 1.667980 [ 18 PIPS ]',GBPCAD,1.67805,,,,,1.67250,1.66450,,,,1.667980,Sell limit
+6056,'5492592958',4305,'Sl correct',,,,,,,,,,,,,
+8850,'5492592958',4975,'XAUUSD BUY LIMIT   @ 1925  TP : 1929 TP : 1932 TP : 1935  SL : 1921',XAUUSD,1925,,,,,1929,1932,1935,,,1921,Buy limit
+8851,'5492592958',4976,'EURAUD SELL NOW    @ 1.6568  TP : 1.6534 TP : 1.6458  SL : 1.6898',EURAUD,1.6568,,,,,1.6534,1.6458,,,,1.6898,Sell now
+6057,'5492592958',4306,'Last week EURGBP trade if anyone have delete order',EURGBP,,,,,,,,,,,,
+8853,'5492592958',4977,'SL correction',,,,,,,,,,,,,
+2097,'5492592958',1988,'GBPNZD BUY NOW @ 2.0980 tp @ 2.1046 tp2 @ 2.1116  sl @ 2.094040 pips)',GBPNZD,2.0980,,,,,2.1046,2.1116,,,,2.094040,Buy now
+8854,'5492592958',4978,'GBPNZD BUY NOW   @ 2.0980  TP : 2.1046 TP : 2.1116  SL : 2.0940',GBPNZD,2.0980,,,,,2.1046,2.1116,,,,2.0940,Buy now
+6058,'5492592958',4307,'GBPNZD Buy now @ 2.09830 tp @ 2.10600 tp 2 @ 2.11650  Sl @ 2.09480',GBPNZD,2.09830,,,,,2.10600,2.11650,,,,2.09480,Buy now
+8856,'5492592958',4979,'Delete pending order',,,,,,,,,,,,,
+2098,'5492592958',1989,'XAUUSD buy now @ 1925 tp @ 1930 tp2 @ 1935  SL @ 1922',XAUUSD,1925,,,,,1930,1935,,,,1922,Buy now
+8857,'5492592958',4980,'XAUUSD BUY LIMIT   @ 1925  TP : 1929 TP : 1932 TP : 1935  SL : 1921',XAUUSD,1925,,,,,1929,1932,1935,,,1921,Buy limit
+8858,'5492592958',4981,'1924.80 first entry',,1924.80,,,,,,,,,,,
+8859,'5492592958',4982,'Buy now entry now limit',,,,,,,,,,,,,Buy now
+8860,'5492592958',4983,'XAUUSD SELL SIGNAL TP DONE 45+ pips',XAUUSD,,,,,,,,,,,,Sell
+6059,'5492592958',4308,'XAUUSD NEXT MOVE POSSIBLE  Waiting for confirmation',XAUUSD,,,,,,,,,,,,
+6060,'5492592958',4309,'USDMXN BUY LIMIT @ 17.070 Tp @ 17.200 tp 2 @ 17.440  Sl @ 17.010 [ 60 pips ]',USDMXN,17.070,,,,,17.200,17.440,,,,17.010,Buy limit
+8863,'5492592958',4984,'XAUUSD SELL NOW  @ 1924 - 1928  TP : 1919 TP : 1913  SL : 1933',XAUUSD,1924,1928,,,,1919,1913,,,,1933,Sell now
+8864,'5492592958',4985,'EURAUD BUY NOW   @ 1.6609  TP : 1.6639 TP : 1.6698   SL : 1.6558',EURAUD,1.6609,,,,,1.6639,1.6698,,,,1.6558,Buy now
+8865,'5492592958',4986,'Hit SL -30',,,,,,,,,,,,30,
+6062,'5492592958',4311,'No more exchange will post',,,,,,,,,,,,,
+6063,'5492592958',4312,'XAUUSD sell now @ 1927.50 tp @ 1921 tp2 @ 1915  Sl @ 1932',XAUUSD,1927.50,,,,,1921,1915,,,,1932,Sell now
+8867,'5492592958',4988,'Sell Now 1927.50  Second limit',,1927.50,,,,,,,,,,,Sell now
+6064,'5492592958',4313,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+2099,'5492592958',1990,'GBPNZD Sl extend 10 pips  Set it 2.0930',GBPNZD,,,,,,,,,,,10,
+8868,'5492592958',4989,'If you are Still Holding GBPNZD SL EXTEND 10 pips   Set @ 2.0930',GBPNZD,,,,,,,,,,,10,
+8869,'5492592958',4990,'GBPNZD BUY NOW   @ 2.0950  TP : 2.0980 TP : 2.1016  SL : 2.0925',GBPNZD,2.0950,,,,,2.0980,2.1016,,,,2.0925,Buy now
+8871,'5492592958',4992,'GBPUSD SELL NOW   @ 1.2400  TP : 1.2364 TP : 1.2311  SL : 1.2456',GBPUSD,1.2400,,,,,1.2364,1.2311,,,,1.2456,Sell now
+6065,'5492592958',4314,'Sl extend 15 pips @ 2.09330',,,,,,,,,,,,15,
+6066,'5492592958',4315,'XAUUSD set at @ 1934   Take more sell now @ 1930 Tp same',XAUUSD,1934,1930,,,,,,,,,,Sell now
+8873,'5492592958',4994,'SL Updated : 1934.88',,,,,,,,,,,,1934.88,
+8874,'5492592958',4995,'GBPNZD,GBPNZD,,,,,,,,,,,,
+2103,'5492592958',1994,'LONG_TERM_TRADE  XAUUSD sell limit @ 1934.5 tp @ 1925 tp2 @ 1915  SL @ 1941',XAUUSD,1934.5,,,,,1925,1915,,,,1941,Sell limit
+2104,'5492592958',1995,'use 1_2% risk for personal account 0.50%risk on prop firm',,,,,,,,,,,,,
+2105,'5492592958',1996,'EURCAD BUY LIMIT @ 1.4401 tp @ 1.4465 tp @ 1.4565  SL @ 1.4467',EURCAD,1.4401,,,,,1.4465,1.4565,,,,1.4467,Buy limit
+6067,'5492592958',4316,'NZDUSD sell limit @ 0.59290 tp @ 0.58890 tp 2 @ 0.58450  Sl @ 0.59400 [ 11 PIPS ]',NZDUSD,0.59290,,,,,0.58890,0.58450,,,,0.59400,Sell limit
+8875,'5492592958',4996,'EURCAD BUY LIMIT    @ 1.4401  TP : 1.4453 TP : 1.4535  SL : 1.4465',EURCAD,1.4401,,,,,1.4453,1.4535,,,,1.4465,Buy limit
+6068,'5492592958',4317,'NZDJPY sell limit @ 0.80090 tp @ 0.79780 tp 2 @ 0.79200  SL @ 0.80200',NZDJPY,0.80090,,,,,0.79780,0.79200,,,,0.80200,Sell limit
+8876,'5492592958',4997,'Check SL Again',,,,,,,,,,,,,
+2106,'5492592958',1997,'EURCAD close',EURCAD,,,,,,,,,,,,
+6070,'5492592958',4319,'Last WEEK trade also stop lot hit if anyone was that trade have face double loss  I will try to find some good entries for all of you to recover that loss back',,,,,,,,,,,,,
+2109,'5492592958',2000,'GBPCHF sell limit @ 1.1117 tp @ 1.1100 tp2 @ 1.1085  SL @ 1.1125 08 pips)',GBPCHF,1.1117,,,,,1.1100,1.1085,,,,1.1125,Sell limit
+8880,'5492592958',5001,'GBPCHF SELL LIMIT   @ 1.1117  TP : 1.1100 TP : 1.1085  SL : 1.1125 08 pips)',GBPCHF,1.1117,,,,,1.1100,1.1085,,,,1.1125,Sell limit
+2110,'5492592958',2001,'Triggered',,,,,,,,,,,,,
+8881,'5492592958',5002,'Active',,,,,,,,,,,,,
+2111,'5492592958',2002,'GBPCHF sl edited 2 pips',GBPCHF,,,,,,,,,,,,
+8882,'5492592958',5003,'SL check again',,,,,,,,,,,,,
+6071,'5492592958',4320,'GBPCAD buy limit @ 1.67490 tp @ 1.68500 tp 2 @ 1.71100  sl @ 1.66000',GBPCAD,1.67490,,,,,1.68500,1.71100,,,,1.66000,Buy limit
+6072,'5492592958',4321,'Long term trade   XAUUSD sell now @ 1932.50 Other limit @ 1935.50 Tp @ 1922 tp2 @ 1911  Sl @.1939.50',XAUUSD,1932.50,1935.50,,,,1922,1911,,,,,Sell now
+6073,'5492592958',4322,'US30 Buy now @ 34630 tp @ 34750 tp 2 @ 34900  Sl @ 34540',US30,34630,,,,,34750,34900,,,,34540,Buy now
+6074,'5492592958',4323,'LONG TERM TRADE   XAGUSD sell now @ 23.260  Other limit @ 23.350 tp @ 22.900 tp 2 @ 22.200  Sl @ 23.570',XAGUSD,23.260,23.350,,,,22.900,22.200,,,,23.570,Sell now
+6075,'5492592958',4324,'EURCAD buy now @ 1.43840 tp @ 1.44170 tp 2 @ 1.44800  Sl @ 1.43670',EURCAD,1.43840,,,,,1.44170,1.44800,,,,1.43670,Buy now
+2113,'5492592958',2004,'Tp2 smacked',,,,,,,,,,,,,
+6078,'5492592958',4327,'NZDUSD sl set at safe zoon @ 0.59450',NZDUSD,,,,,,,,,,,0.59450,
+6080,'5492592958',4329,'AUDUSD sell now @ 0.64550 tp @ 0.64200 tp 2 @ 0.63670  SL @ 0.64750',AUDUSD,0.64550,,,,,0.64200,0.63670,,,,0.64750,Sell now
+6081,'5492592958',4330,'US30 If you will hit b.e. re_enter',US30,,,,,,,,,,,,
+2116,'5492592958',2007,'AUDCHF sell limit @ 0.57885 tp @ 0.5772 tp2 @ 0.5746  SL @ 0.5797 09 pips)',AUDCHF,0.57885,,,,,0.5772,0.5746,,,,0.5797,Sell limit
+8883,'5492592958',5004,'AUDCHF SELL LIMIT   @ 0.57885  TP : 0.5772 TP : 0.5746  SL : 0.5797 09 pips)',AUDCHF,0.57885,,,,,0.5772,0.5746,,,,0.5797,Sell limit
+8884,'5492592958',5005,'Both TPs smashed',,,,,,,,,,,,,
+2117,'5492592958',2008,'NZDCAD buy limit @ 0.7977 tp @ 0.7991 tp2 @ 0.8009  SL @ 0.806908 pips)',NZDCAD,0.7977,,,,,0.7991,0.8009,,,,0.806908,Buy limit
+6084,'5492592958',4333,'XAUUSD 2nd limit triggered',XAUUSD,,,,,,,,,,,,
+6085,'5492592958',4334,'NZDCAD Buy limit @ 0.79790 tp @ 0.80060  Sl @ 0.79670',NZDCAD,0.79790,,,,,0.80060,,,,,0.79670,Buy limit
+6086,'5492592958',4335,'Edited',,,,,,,,,,,,,
+6087,'5492592958',4336,'AUDCAD sell now @ 0.86820 tp @ .86710 tp2 @ 0.86550  Sl @ 0.86870  5 Pips Only )',AUDCAD,0.86820,,,,,0.86550,,,,,0.86870,Sell now
+6088,'5492592958',4337,'CADJPY sell now @ 109.860 tp @ 109.100 tp 2 @ 107.200  Sl @ 110.300',CADJPY,109.860,,,,,109.100,107.200,,,,110.300,Sell now
+8886,'5492592958',5007,'Gbpusd close 10+ pips',GBPUSD,,,,,,,,,,,,
+8887,'5492592958',5008,'GBPUSD BUY NOW   @ 1.2390  Tp : 1.2428 Tp : 1.2476  Sl : 1.2356',GBPUSD,1.2390,,,,,1.2428,1.2476,,,,1.2356,Buy now
+8888,'5492592958',5009,'Stay away from this trade wait gold was not clear',GOLD,,,,,,,,,,,,
+8889,'5492592958',5010,'USDCHF SELL NOW   @ 0.8960  TP : 0.8934 TP : 0.8893  SL : 0.8991',USDCHF,0.8960,,,,,0.8934,0.8893,,,,0.8991,Sell now
+6090,'5492592958',4339,'Exit at entry or use less risk',,,,,,,,,,,,,
+6091,'5492592958',4340,'GBPCAD sell limit not valid',GBPCAD,,,,,,,,,,,,Sell limit
+2118,'5492592958',2009,'Nzdcad triggered',NZDCAD,,,,,,,,,,,,
+8890,'5492592958',5011,'NZDCAD BUY NOW  @ 0.7977  TP : 0.7991 TP : 0.8009  SL : 0.7969',NZDCAD,0.7977,,,,,0.7991,0.8009,,,,0.7969,Buy now
+2119,'5492592958',2010,'AUDCHF sl extend 3 pips   Set @ 0.5800',AUDCHF,,,,,,,,,,,0.5800,
+8891,'5492592958',5012,'AUDCHF sl extend 3 pips   Set @ 0.5800',AUDCHF,,,,,,,,,,,0.5800,
+2120,'5492592958',2011,'Nzdcad sl set  0.7959',NZDCAD,,,,,,,,,,,0.7959,
+2121,'5492592958',2012,'News ahead for CAD',,,,,,,,,,,,,
+8892,'5492592958',5013,'Nzdcad sl set  0.7959',NZDCAD,,,,,,,,,,,0.7959,
+8893,'5492592958',5014,'News ahead',,,,,,,,,,,,,
+2122,'5492592958',2013,'Nzdcad already stop out sorry guys',NZDCAD,,,,,,,,,,,,
+8894,'5492592958',5015,'Already hit SL',,,,,,,,,,,,,
+12161,'5492592958',451,'!! CAD/CHF add 15 PIP To Stop loss for safe retest',CAD/CHF,15,,,,,,,,,,,
+8895,'5492592958',5016,'XAUUSD SELL NOW  @ 1936 - 1939  TP : 1932 TP : 1928 TP : 1915  SL : 1941',XAUUSD,1936,1939,,,,1932,1928,1915,,,1941,Sell now
+6094,'5492592958',4343,'stop out - 11 pips',,,,,,,,,,,,,
+6095,'5492592958',4344,'Stop Loss 44 pips',,,,,,,,,,,,,
+6102,'5492592958',4350,'XAGUSD buy now @ 23.110',XAGUSD,23.110,,,,,,,,,,,Buy now
+6103,'5492592958',4351,'XAGUSD Buy now @ 23.110 tp @ 23.250 tp 2 @ 23.600  Sl; @ 23.00',XAGUSD,23.110,,,,,23.250,23.600,,,,,Buy now
+8898,'5492592958',5017,'Market very very manipulated   Very Bad I see this Worst Market first time in my life most of our trades go in profit and then reverse back and hit SL',,,,,,,,,,,,,
+6105,'5492592958',4353,'USDCHF sell now @ 0.89750',USDCHF,0.89750,,,,,,,,,,,Sell now
+6106,'5492592958',4354,'USDCHF sell now @ 0.89750 tp @ 0.894600 tp 2 @ 0.89000  Sl @ 0.89860',USDCHF,0.89750,,,,,0.894600,0.89000,,,,0.89860,Sell now
+6107,'5492592958',4355,'NAS100 Buy now @ 15080 tp @ 15270 tp 2 @ 15500  Sl @ 14980',NAS100,15080,,,,,15270,15500,,,,14980,Buy now
+6108,'5492592958',4356,'US30 Buy now @ 34390',US30,34390,,,,,,,,,,,Buy now
+6109,'5492592958',4357,'Put one buy limit @ 34330 tp @ 34480 tp2 @ 34750  Sl @ 34200',,34330,,,,,34480,34750,,,,34200,Buy limit
+6110,'5492592958',4358,'Exit',,,,,,,,,,,,,
+6113,'5492592958',4361,'Tp1 edit @ 15200',,,,,,,15200,,,,,,
+6114,'5492592958',4362,'Tp1 @ 34450 for both trades',,,,,,,34450,,,,,,
+6116,'5492592958',4364,'USDMXN still Valid',USDMXN,,,,,,,,,,,,
+6117,'5492592958',4365,'AUDCAD sell limit @ 0.87150 tp @ 0',AUDCAD,0.87150,,,,,,,,,,,Sell limit
+2126,'5492592958',2016,'NZDCAD sell limiT @ 0.7978 tp @ 0.7950 tp2 @ 0.7923  SL @ 0.799315 pips)',NZDCAD,0.7978,,,,,0.7950,0.7923,,,,0.799315,Sell limit
+8901,'5492592958',5020,'NZDCAD SELL LIMIT  @ 0.7978  TP : 0.7955 TP : 0.7925  SL : 0.7993',NZDCAD,0.7978,,,,,0.7955,0.7925,,,,0.7993,Sell limit
+6121,'5492592958',4369,'Close near entry',,,,,,,,,,,,,
+6122,'5492592958',4370,'USDMXN no more valid',USDMXN,,,,,,,,,,,,
+6123,'5492592958',4371,'USOIL Buy limit @ 89.20 Other Limit @ 88.70 tp @ 90.50 tp 2 @ 92.40  Sl @ 88.20',USOIL,89.20,88.70,,,,90.50,92.40,,,,88.20,Buy limit
+6124,'5492592958',4372,'Close US30 in profit',US30,,,,,,,,,,,,
+6125,'5492592958',4373,'US30 Sell now @ 34540 TP @ 34370 TP 2 @ 34150  sL @ 34650',US30,34540,,,,,34370,34150,,,,34650,Sell now
+6130,'5492592958',4378,'Put one more sell limit @ 34610 Sl shift @ 3470',,34610,,,,,,,,,,3470,Sell limit
+6131,'5492592958',4379,'Put limit at lover price @ 0.80060',,0.80060,,,,,,,,,,,
+2128,'5492592958',2018,'AUDNZD sell limit @ 1.0886 tp @ 1.0866 tp2 @ 1.0825  SL @ 1.089711 pips)',AUDNZD,1.0886,,,,,1.0866,1.0825,,,,1.089711,Sell limit
+8902,'5492592958',5021,'AUDNZD SELL LIMIT    @ 1.0886  TP : 1.0867 TP : 1.0832  SL : 1.0898 [12 Pips]',AUDNZD,1.0886,,,,,1.0867,1.0832,,,,1.0898,Sell limit
+2129,'5492592958',2019,'XAUUSD sell now @ 1030.3 tp @ 1925.5 tp2 @ 1919  SL @ 1933.5',XAUUSD,1030.3,,,,,1925.5,1919,,,,1933.5,Sell now
+6132,'5492592958',4380,'XAUUSD sell now @ 1931',XAUUSD,1931,,,,,,,,,,,Sell now
+8903,'5492592958',5022,'XAUUSD SELL NOW  @ 1931 - 1933  TP : 1925 TP : 1920  SL : 1935',XAUUSD,1931,1933,,,,1925,1920,,,,1935,Sell now
+2130,'5492592958',2020,'Editing the selling current price is 1931',,1931,,,,,,,,,,,Sell
+6133,'5492592958',4381,'XAUUSD sell now @ 1931.50 tp @ 1926  tp 2 @ 1917   Sl @ 1934.50',XAUUSD,1931.50,,,,,1926,1917,,,,1934.50,Sell now
+2131,'5492592958',2021,'XAUUSD need some editing  set more sell limit @ 1932.5 tp same   sl @ 1935.5',XAUUSD,1932.5,,,,,sl,,,,,1935.5,Sell limit
+6135,'5492592958',4383,'US30 Final last free trade   sell now @ 34585  tp @ 34400 tp 2 @ 34150  SL @  34690 [ 1:4 RR ]',US30,34585,,,,,34400,34150,,,,34690,Sell now
+8904,'5492592958',5023,'US30 SELL NOW   @ 34590 - 34640  TP : 34450 TP : 34200  SL : 34700',US30,34590,34640,,,,34450,34200,,,,34700,Sell now
+6136,'5492592958',4384,'EURUSD sell limit @ 1.07290 tp @ 1.06700 tp 2 @ 1.05680  Sl @ 1.07480',EURUSD,1.07290,,,,,1.06700,1.05680,,,,1.07480,Sell limit
+6137,'5492592958',4385,'Take more sell @ 1932.5',,1932.5,,,,,,,,,,,Sell
+6139,'5492592958',4387,'XAGUSD sell now @ 23.300 use less risk this time 0.10%',XAGUSD,23.300,,,,,,,,,,,Sell now
+2132,'5492592958',2022,'EURUSD sell now @ 1.0700 tp @ 1.0655 tp2 @ 1.0674  SL @ 1.0525 25 pips)',EURUSD,1.0700,,,,,1.0655,1.0674,,,,1.0525,Sell now
+8906,'5492592958',5024,'EURUSD SELL NOW  @ 1.0700  TP : 1.0655 TP : 1.0674  SL : 1.0525 25 pips)',EURUSD,1.0700,,,,,1.0655,1.0674,,,,1.0525,Sell now
+2133,'5492592958',2023,'EURUSD sl correction 1.0726',EURUSD,,,,,,,,,,,1.0726,
+8907,'5492592958',5025,'EURUSD SELL NOW  @ 1.0700  TP : 1.0662 TP : 1.06136  SL : 1.0525 25 pips)',EURUSD,1.0700,,,,,1.0662,1.06136,,,,1.0525,Sell now
+8908,'5492592958',5026,'Check SL and Tp again',,,,,,,,,,,,,
+8909,'5492592958',5027,'EURAUD BUY NOW  @ 1.6515  TP : 1.6555 TP : 1.6600  Sl : 1.6476',EURAUD,1.6515,,,,,1.6555,1.6600,,,,1.6476,Buy now
+8910,'5492592958',5028,'Use small lot only',,,,,,,,,,,,,
+8911,'5492592958',5029,'Add one more Sell limit   @ 1.07290  TP : SAME  SL UPDATED : 1.07480',,1.07290,,,,,sl,,,,,1.07480,Sell limit
+6141,'5492592958',4389,'GBPCAD Buy now @ 1.66030 tp @ 1.66650 tp 2 @ open   Sl @ 1.65910',GBPCAD,1.66030,,,,,1.66650,open,,,,1.65910,Buy now
+8912,'5492592958',5030,'XAGUSD SELL NOW   @ 23.320  TP : 23.150 TP :  22.900  SL :  23.360',XAGUSD,23.320,,,,,23.150,22.900,,,,23.360,Sell now
+8913,'5492592958',5031,'Use Small lot',,,,,,,,,,,,,
+8916,'5492592958',5034,'SL UPDATE : 1938',,,,,,,,,,,,1938,
+6143,'5492592958',4390,'US30 take one more sell now from @ 34630 Tps same   Sl shift at @ 34720 for just fir safety',US30,34630,,,,,,,,,,34720,Sell now
+8917,'5492592958',5035,'One More Sell Now  @ 34630',,34630,,,,,,,,,,,Sell now
+8918,'5492592958',5036,'XAUUSD SELL LIMIT  @ 1946  TP : 1935 TP : 1925  SL : 1954',XAUUSD,1946,,,,,1935,1925,,,,1954,Sell limit
+6146,'5492592958',4393,'Recovery trade   XAUUSD sell now again @ 1943.50 Other limit @ 1947 Tp @ 1935 Tp2 @ 1923  Sl @1954',XAUUSD,1943.50,1947,,,,1935,1923,,,,1954,Sell now
+6149,'5492592958',4396,'B.E. Hit Now',,,,,,,,,,,,,
+8920,'5492592958',5037,'83+ pips move B.E hit now',,,,,,,,,,,,,
+8921,'5492592958',5038,'Place one More Sell Limit  @ 34700  SL UPDATE : 34750',,34700,,,,,,,,,,34750,Sell limit
+6152,'5492592958',4397,'Look at the Move of XAGUSD  Its move 80+ pips move fist before flying high',XAGUSD,,,,,,,,,,,,
+6156,'5492592958',4400,'Entered',,,,,,,,,,,,,
+12175,'5492592958',463,'GBP/AUD - 4hrs  Full Target Hit + 320 PIP )   ',GBP/AUD,,,,,,,,,,,,
+2135,'5492592958',2025,'XAUUSD sell now @ 1947 tp @ 1934 tp2 @ 1920  SL @ 1955.5',XAUUSD,1947,,,,,1934,1920,,,,1955.5,Sell now
+8924,'5492592958',5039,'Add one more Sell Limit   @ 1949  Set SL : 1955.5',,1949,,,,,,,,,,1955.5,Sell limit
+8925,'5492592958',5040,'Inshallah will win in news',,,,,,,,,,,,,
+8926,'5492592958',5041,'SL : 1956  Not 1955.5',,,,,,,,,,,,1956,
+2136,'5492592958',2026,'EURUSD sell now @ 1.0726 tp @ 1.0653 tp2 @ 1.0533  SL @ 1.0572',EURUSD,1.0726,,,,,1.0653,1.0533,,,,1.0572,Sell now
+2137,'5492592958',2027,'EURGBP sell now @ 0.8645 tp @ 0.8595 tp2 @ 0.8515  SL @ 0.867530 pips)',EURGBP,0.8645,,,,,0.8595,0.8515,,,,0.867530,Sell now
+6158,'5492592958',4402,'Sl edited @ 1.07650 for safety',,,,,,,,,,,,1.07650,
+8928,'5492592958',5043,'EURGBP SELL NOW  @ 0.8645  TP : 0.8595 TP : 0.8515  SL : 0.867530 pips)',EURGBP,0.8645,,,,,0.8595,0.8515,,,,0.867530,Sell now
+8929,'5492592958',5044,'Sl edited : 1.07650 for safety',,,,,,,,,,,,1.07650,
+8930,'5492592958',5045,'Both limit 60+ pips running',,,,,,,,,,,,,
+8933,'5492592958',5046,'ONE MORE NEWS IN 8 MINUTES   IF BREAKEVEN HIT GOLD RE-ENTRY VALID',GOLD,,,,,,,,,,,,
+6162,'5492592958',4406,'USDCHF sell now @ 0.89680 Tp @ 0.89300 Tp2 @ 0.88600  Sl @ 0.89800',USDCHF,0.89680,,,,,0.89300,0.88600,,,,0.89800,Sell now
+8934,'5492592958',5047,'Again Active and 25+ pips running',,,,,,,,,,,,,
+2141,'5492592958',2031,'AUDNZD once do 1:1 sel b.e and take partially',AUDNZD,11,,,,,,,,,,,
+8941,'5492592958',5051,'AUDNZD 1:1 running set b.e and take partially',AUDNZD,11,,,,,,,,,,,
+2142,'5492592958',2032,'EURUSD UPDATE  NEAR TO TP1 70+ pips 1:1.5rr sl move entry point and take partially',EURUSD,,,,,,sl,,,,,,
+12178,'5492592958',467,'add 20 pips to stop loss for safe retest',,20,,,,,,,,,,,
+12179,'5492592958',468,'GBP/USD - Full Close + 220 PIP  + 13.5 %',GBP/USD,220,13.5,,,,,,,,,,
+2146,'5492592958',2034,'Check and vote',,,,,,,,,,,,,
+6169,'5492592958',4413,'Sorry guys you can leave the previous channel sorry for disturbing',,,,,,,,,,,,,
+6169,'5492592958',4414,'Sorry guys you can leave the previous channel sorry for disturbing',,,,,,,,,,,,,
+2151,'5492592958',2039,'Close EURGBP in some minus',EURGBP,,,,,,,,,,,,
+8947,'5492592958',5053,'Closw',,,,,,,,,,,,,
+2155,'5492592958',2043,'USOIL buy limit @ 88.55 tp @ 89.25 tp2 @ 90.40  SL @ 88.20',USOIL,88.55,,,,,89.25,90.40,,,,88.20,Buy limit
+2156,'5492592958',2044,'20 pips away now from entry limit set your limit according to it',,20,,,,,,,,,,,
+8951,'5492592958',5056,'USOIL BUY LIMIT   @ 88.55  TP : 89.20 TP : 90.00  SL : 88.20',USOIL,88.55,,,,,89.20,90.00,,,,88.20,Buy limit
+8952,'5492592958',5057,'10 pips away now from entry limit set your limit according to it',,10,,,,,,,,,,,
+8953,'5492592958',5058,'All brokers have Different prices',,,,,,,,,,,,,
+2157,'5492592958',2045,'Price defferenc  Set your entry there which circle Chart m5',,,,,,,,,,,,,
+8954,'5492592958',5059,'Price Difference Set your entry there which circle Chart m5 I use price of tradingview may be it is different from all broker prices',,,,,,,,,,,,,
+8955,'5492592958',5060,'XAUUSD SELL NOW  @ 1920  TP : 1915 TP : 1910  SL : 1924',XAUUSD,1920,,,,,1915,1910,,,,1924,Sell now
+2158,'5492592958',2046,'XAUUSD buy now @ 1918.3 tp @1929 tp2 @ 1945  SL @ 1911',XAUUSD,1918.3,,,,,1929,1945,,,,1911,Buy now
+2160,'5492592958',2048,'XAUUSD buy limit @ 1915 tp @ 1927 tp2 @ 1945  SL @ 1909',XAUUSD,1915,,,,,1927,1945,,,,1909,Buy limit
+8959,'5492592958',5061,'XAUUSD BUY LIMIT   @ 1915 - 1913  TP : 1920 TP : 1925 TP : 1930  SL : 1909',XAUUSD,1915,1913,,,,1920,1925,1930,,,1909,Buy limit
+6171,'5492592958',4416,'XAUUSD buy now @ 1915 Other limit @ 1911 Tp @ 1928 Tp2 @ 1940  Sl @ 1908',XAUUSD,1915,1911,,,,1928,1940,,,,1908,Buy now
+6172,'5492592958',4417,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+8967,'5492592958',5068,'US30 SELL NOW  @ 34375  TP : 34030  SL : 34451  Use Small Lot Size',US30,34375,,,,,34030,,,,,34451,Sell now
+8968,'5492592958',5069,'SL Edited : 34470',,,,,,,,,,,,34470,
+8969,'5492592958',5070,'30+ pips running',,,,,,,,,,,,,
+8970,'5492592958',5071,'50+ pips running',,,,,,,,,,,,,
+2164,'5492592958',2052,'AUDUSD buy limit @ 0.6410 Tp @ 0.6451 Tp2 @ 0.6504  Sl @ 0.639020 pips)',AUDUSD,0.6410,,,,,0.6451,0.6504,,,,0.639020,Buy limit
+8974,'5492592958',5073,'Lot of blue pips ,,,,,,,,,,,,,
+8975,'5492592958',5074,'AUDUSD BUY LIMIT   @ 0.6410  TP : 0.6451 TP : 0.6504  SL : 0.639020 pips)',AUDUSD,0.6410,,,,,0.6451,0.6504,,,,0.639020,Buy limit
+2167,'5492592958',2055,'AUDUSD buy limit @ 0.6413 tp @ 0.6462 tp2 @ 0.6540  SL @ 0.638429 pips)',AUDUSD,0.6413,,,,,0.6462,0.6540,,,,0.638429,Buy limit
+2168,'5492592958',2056,'Use this trade for AUDUSD delete above 1st one',AUDUSD,,,,,,,,,,,,
+8976,'5492592958',5075,'AUDUSD BUY LIMIT   @ 0.6413  TP : 0.6462 TP : 0.6540  SL : 0.638429 pips)',AUDUSD,0.6413,,,,,0.6462,0.6540,,,,0.638429,Buy limit
+2169,'5492592958',2057,'Be careful today market will be very volatile  Too much news today in defferent pairs  As GBP news comming in next 13 mins',,13,,,,,,,,,,,
+2170,'5492592958',2058,'GBPAUD buy limit @ 1.9100 tp @ 1.9198 tp2 @ 1.9363  SL @ 1.9048',GBPAUD,1.9100,,,,,1.9198,1.9363,,,,1.9048,Buy limit
+2171,'5492592958',2059,'Trigger',,,,,,,,,,,,,
+2172,'5492592958',2060,'USDJPY sell limit @ 148.25 tp @ 147.80 tp2 @ 1547.20  SL @ 148.5025 pips)',USDJPY,148.25,,,,,147.80,1547.20,,,,148.5025,Sell limit
+8979,'5492592958',5077,'GBPAUD BUY NOW  @ 1.9100  TP : 1.9198 TP : 1.9363  SL : 1.9048',GBPAUD,1.9100,,,,,1.9198,1.9363,,,,1.9048,Buy now
+8980,'5492592958',5078,'USDJPY SELL LIMIT  @ 148.25  TP : 147.80 TP : 1547.20  SL : 148.5025 pips)',USDJPY,148.25,,,,,147.80,1547.20,,,,148.5025,Sell limit
+8982,'5492592958',5080,'Check again',,,,,,,,,,,,,
+2173,'5492592958',2061,'Hi guys as your mentor i recommend to start part money with Copytrading and have extra income without any paying attention and with any loss   Start your extra profit now  I recommend it 100% profitable it is',,,,,,,,,,,,,
+2175,'5492592958',2063,'GBPAUD sl hit',GBPAUD,,,,,,,,,,,,
+8991,'5492592958',5084,'G/A hit SL I know today Gona very hard day for us',,,,,,,,,,,,,
+2178,'5492592958',2066,'XAUUSD buy limit @ 1923 tp @ 1931 tp2 @ 1940  SL @ 1918.5',XAUUSD,1923,,,,,1931,1940,,,,1918.5,Buy limit
+8997,'5492592958',5090,'Wait For Confirmation Hold SELL trade for now',,,,,,,,,,,,,Sell
+2179,'5492592958',2067,'USDJPY close at entry point',USDJPY,,,,,,,,,,,,
+8998,'5492592958',5091,'Close this trade in 16+ pips',,,,,,,,,,,,,
+6179,'5492592958',4424,'XAUUSD sell now @ 1926',XAUUSD,1926,,,,,,,,,,,Sell now
+9000,'5492592958',5093,'Gold stuck in 1925 to 1927 no volume',GOLD,1925,1927,,,,,,,,,,
+9001,'5492592958',5094,'Shift SL : 1933  Set one more Sell limit @ 1929',,,,,,,,,,,,1933,Sell limit
+6180,'5492592958',4425,'If still who not entered take it from @ 1927.50',,1927.50,,,,,,,,,,,
+9004,'5492592958',5096,'Active',,,,,,,,,,,,,
+9009,'5492592958',5100,'Now we are going to kick out all monthly members who didn’t renewed there membership',,,,,,,,,,,,,
+2193,'5492592958',2074,'XAUUSD buy from 1923 is not valid guys',XAUUSD,1923,,,,,,,,,,,Buy
+6194,'5492592958',4434,'XAUUSD buy from 1923 is not valid guys',XAUUSD,1923,,,,,,,,,,,Buy
+9019,'5492592958',5102,'Why u guys again and again message no signs no signal   Once we find opportunity we send signals keep patience if u don’t have patience leave this group and follow someone else signals',,,,,,,,,,,,,
+2194,'5492592958',2075,'EURCAD BUY NOW @ 1.4297 tp @ 1.4340 tp2 @ 1.4410  SL @ 1.418017 pips)',EURCAD,1.4297,,,,,1.4340,1.4410,,,,1.418017,Buy now
+6195,'5492592958',4435,'EURCAD BUY NOW @ 1.4297 tp @ 1.4340 tp2 @ 1.4410  SL @ 1.418017 pips)',EURCAD,1.4297,,,,,1.4340,1.4410,,,,1.418017,Buy now
+9020,'5492592958',5103,'EURCAD BUY NOW   @ 1.4297  TP : 1.4340 TP : 1.4410  SL : 1.418017 pips)',EURCAD,1.4297,,,,,1.4340,1.4410,,,,1.418017,Buy now
+9021,'5492592958',5104,'1.4280 SL correction',,1.4280,,,,,,,,,,,
+2195,'5492592958',2076,'Sl edited',,,,,,,,,,,,,
+6196,'5492592958',4436,'Sl edited',,,,,,,,,,,,,
+2196,'5492592958',2077,'EURCAD sl extend for 5 pips 1.4275',EURCAD,,,,,,,,,,,1.4275,
+6197,'5492592958',4437,'EURCAD sl extend for 5 pips 1.4275',EURCAD,,,,,,,,,,,1.4275,
+9024,'5492592958',5105,'EURCAD sl extend for 5 pips 1.4275',EURCAD,,,,,,,,,,,1.4275,
+2197,'5492592958',2078,'EURCHF buy limit @ 0.9623 tp @ 0.9760 tp2 @ 0.9930  SL @ 0.9557',EURCHF,0.9623,,,,,0.9760,0.9930,,,,0.9557,Buy limit
+6198,'5492592958',4438,'EURCHF buy limit @ 0.9623 tp @ 0.9760 tp2 @ 0.9930  SL @ 0.9557',EURCHF,0.9623,,,,,0.9760,0.9930,,,,0.9557,Buy limit
+9025,'5492592958',5106,'EURCHF BUY LIMIT  @ 0.9623  TP : 0.9749 TP : 0.9900  SL : 0.9557',EURCHF,0.9623,,,,,0.9749,0.9900,,,,0.9557,Buy limit
+9026,'5492592958',5107,'Use small lot long term setup',,,,,,,,,,,,,
+2200,'5492592958',2081,'EURCAD sl -22 pips',EURCAD,,,,,,,,,,,22,
+6201,'5492592958',4441,'EURCAD sl -22 pips',EURCAD,,,,,,,,,,,22,
+6202,'5492592958',4442,'US30 buy limit @ 33860 tp @ 34080 tp2 @ 34450  SL @ 33750',US30,33860,,,,,34080,34450,,,,33750,Buy limit
+2201,'5492592958',2082,'US30 buy limit @ 33860 tp @ 34080 tp2 @ 34450  SL @ 33750',US30,33860,,,,,34080,34450,,,,33750,Buy limit
+9030,'5492592958',5110,'US30 BUY LIMIT   @ 33860  TP : 34080 TP : 34450  SL : 33750',US30,33860,,,,,34080,34450,,,,33750,Buy limit
+2202,'5492592958',2083,'XAUUSD buy limit @ 1905.7 tp @ 1916 tp2 @ 1930  SL @ 190057 pips)',XAUUSD,1905.7,,,,,1916,1930,,,,190057,Buy limit
+6203,'5492592958',4443,'XAUUSD buy limit @ 1905.7 tp @ 1916 tp2 @ 1930  SL @ 190057 pips)',XAUUSD,1905.7,,,,,1916,1930,,,,190057,Buy limit
+9031,'5492592958',5111,'XAUUSD BUY LIMIT   @ 1905.8  TP : 1912 TP : 1920  SL : 1900',XAUUSD,1905.8,,,,,1912,1920,,,,1900,Buy limit
+2203,'5492592958',2084,'US30 SL SET  @ 33690 for safety',US30,,,,,,,,,,,33690,
+6204,'5492592958',4444,'US30 SL SET  @ 33690 for safety',US30,,,,,,,,,,,33690,
+9032,'5492592958',5112,'US30 SL SET  @ 33690 for safety',US30,,,,,,,,,,,33690,
+2204,'5492592958',2085,'AUDCAD sell limit @ 0.8668 other sell limit @ 0.8700 tp @ 0.8568 tp2 @ 0.8430  SL @ 0.8731',AUDCAD,0.8668,0.8700,,,,0.8568,0.8430,,,,0.8731,Sell limit
+6205,'5492592958',4445,'AUDCAD sell limit @ 0.8668 other sell limit @ 0.8700 tp @ 0.8568 tp2 @ 0.8430  SL @ 0.8731',AUDCAD,0.8668,0.8700,,,,0.8568,0.8430,,,,0.8731,Sell limit
+2205,'5492592958',2086,'XAUUSD sell now @ 1914.5 TP @ 1905  Sl @ 1917.5',XAUUSD,1914.5,,,,,1905,,,,,1917.5,Sell now
+6206,'5492592958',4446,'XAUUSD sell now @ 1914.5 TP @ 1905  Sl @ 1917.5',XAUUSD,1914.5,,,,,1905,,,,,1917.5,Sell now
+9033,'5492592958',5113,'XAUUSD SELL NOW  @ 1915 - 1916  TP : 1911 TP : 1907  SL : 1924',XAUUSD,1915,1916,,,,1911,1907,,,,1924,Sell now
+2206,'5492592958',2087,'CADJPY sell now @110.32 Tp @ 109.83 Tp2 @ 109.25  Sl @ 110.71',CADJPY,110.32,,,,,109.83,109.25,,,,110.71,Sell now
+6207,'5492592958',4447,'CADJPY sell now @110.32 Tp @ 109.83 Tp2 @ 109.25  Sl @ 110.71',CADJPY,110.32,,,,,109.83,109.25,,,,110.71,Sell now
+2207,'5492592958',2088,'EURNZD buy limit @ 1.7755 tp @ 1.7834 tp2 @ 1.7958  SL @ 1.771640 pips)',EURNZD,1.7755,,,,,1.7834,1.7958,,,,1.771640,Buy limit
+6208,'5492592958',4448,'EURNZD buy limit @ 1.7755 tp @ 1.7834 tp2 @ 1.7958  SL @ 1.771640 pips)',EURNZD,1.7755,,,,,1.7834,1.7958,,,,1.771640,Buy limit
+9035,'5492592958',5114,'EURNZD BUY LIMIT  @ 1.7755  TP : 1.7834 TP : 1.7958  SL : 1.7716',EURNZD,1.7755,,,,,1.7834,1.7958,,,,1.7716,Buy limit
+9036,'5492592958',5115,'CADJPY SELL NOW  @ 110.36  TP : 109.83 TP : 109.25  SL : 110.71',CADJPY,110.36,,,,,109.83,109.25,,,,110.71,Sell now
+2210,'5492592958',2091,'XAUUSD close full in 90+ 1:3rr',XAUUSD,,,,,,,,,,,,
+6211,'5492592958',4451,'XAUUSD close full in 90+ 1:3rr',XAUUSD,,,,,,,,,,,,
+2212,'5492592958',2093,'XAUUSD buy trade b.e hit  Valit to enter again',XAUUSD,,,,,,,,,,,,Buy
+6213,'5492592958',4453,'XAUUSD buy trade b.e hit  Valit to enter again',XAUUSD,,,,,,,,,,,,Buy
+9044,'5492592958',5120,'XAUUSD buy trade b.e hit  Valid to enter again',XAUUSD,,,,,,,,,,,,Buy
+9045,'5492592958',5121,'Enter EURNZD',EURNZD,,,,,,,,,,,,
+6214,'5492592958',4454,'Enter EURNZD',EURNZD,,,,,,,,,,,,
+2213,'5492592958',2094,'Enter EURNZD',EURNZD,,,,,,,,,,,,
+9046,'5492592958',5122,'Breakeven hit',,,,,,,,,,,,,
+9047,'5492592958',5123,'If u still holding close',,,,,,,,,,,,,
+9048,'5492592958',5124,'40+ pips move again and hit break even',,,,,,,,,,,,,
+9049,'5492592958',5125,'40+ pips move again and hit break even',,,,,,,,,,,,,
+9052,'5492592958',5127,'XAUUSD SELL NOW   @ 1903.80',XAUUSD,1903.80,,,,,,,,,,,Sell now
+9054,'5492592958',5129,'TP : 1998  TP : 1993  SL : 1906.88',,,,,,,1998,1993,,,,1906.88,
+9056,'5492592958',5131,'Check tp again',,,,,,,,,,,,,
+2214,'5492592958',2095,'XAUUSD move 50+ pips then back  But i am holding still Set sl @ 1898.5 to be safe  Extend 15 pips just',XAUUSD,,,,,,,,,,,1898.5,
+6215,'5492592958',4455,'XAUUSD move 50+ pips then back  But i am holding still Set sl @ 1898.5 to be safe  Extend 15 pips just',XAUUSD,,,,,,,,,,,1898.5,
+9058,'5492592958',5132,'Set Break even',,,,,,,,,,,,,
+6216,'5492592958',4456,'GBPUSD buy now @ 1.2171 tp @ 1.2282 tp2 @ 1.2446  SL @ 1.211060 pips)',GBPUSD,1.2171,,,,,1.2282,1.2446,,,,1.211060,Buy now
+9059,'5492592958',5133,'GBPUSD BUY NOW  @ 1.2170  TP : 1.2282 TP : 1.2446  SL : 1.2110',GBPUSD,1.2170,,,,,1.2282,1.2446,,,,1.2110,Buy now
+2216,'5492592958',2097,'GBPUSD buy now @ 1.2171 tp @ 1.2282 tp2 @ 1.2446  SL @ 1.211060 pips)',GBPUSD,1.2171,,,,,1.2282,1.2446,,,,1.211060,Buy now
+6219,'5492592958',4460,'And there are many people in this channel who have only made deposits and are not trading ,,,,,,,,,,,,,
+6221,'5492592958',4461,'Nzdjpy Sell from 88.370  Tp______________86.307  Sl______________88.972',NZDJPY,88.370,,,,,,,,,,,Sell
+6223,'5492592958',4462,'Gold Buy From 1897.918  Tp_____________1918.959  Sl_____________1897.918',GOLD,1897.918,,,,,,,,,,,Buy
+2217,'5492592958',2099,'XAUUSD buy now @ 1896 tp @ 1909 tp2 @ 1931  SL @ 1888',XAUUSD,1896,,,,,1909,1931,,,,1888,Buy now
+6224,'5492592958',4463,'XAUUSD buy now @ 1896 tp @ 1909 tp2 @ 1931  SL @ 1888',XAUUSD,1896,,,,,1909,1931,,,,1888,Buy now
+2220,'5492592958',2102,'02 accounts accepted only',,02,,,,,,,,,,,
+2221,'5492592958',2103,'Close this trade',,,,,,,,,,,,,
+6227,'5492592958',4466,'Close this trade',,,,,,,,,,,,,
+9071,'5492592958',5142,'Close this trade',,,,,,,,,,,,,
+9074,'5492592958',5144,'XAUUSD BUY LIMIT    @ 1890 - 1886  TP : 1895 TP : 1905 TP : 1935  SL : 1880',XAUUSD,1890,1886,,,,1895,1905,1935,,,1880,Buy limit
+9076,'5492592958',5146,'Also Set One Buy Limit   @ 1890',,1890,,,,,,,,,,,Buy limit
+9077,'5492592958',5147,'This limit bit risky  Why we place one buy limit @ 1890 maybe if market not go to 1886 or 1885 Soo we have one buy from 1890  But I think market hit our buy limits also 1886 - 1885',,1890,1886,1885,1890,1886,,,,,,,Buy limit
+2222,'5492592958',2104,'XAUUSD sl set 1886',XAUUSD,,,,,,,,,,,1886,
+6228,'5492592958',4467,'XAUUSD sl set 1886',XAUUSD,,,,,,,,,,,1886,
+9079,'5492592958',5149,'USTECH NASDAQ) SELL NOW  @ 14620',NASDAQ,14620,,,,,,,,,,,Sell now
+9084,'5492592958',5153,'Close All Gold if anyone holding',GOLD,,,,,,,,,,,,
+9085,'5492592958',5154,'Market continusaly falling',,,,,,,,,,,,,
+9086,'5492592958',5155,'But I’m still holding',,,,,,,,,,,,,
+9087,'5492592958',5156,'Near to target 1',,,,,,,,,,,,,
+9088,'5492592958',5157,'Nas100 Target done 125+ pips running  Close 80%)',NAS100,,,,,,,,,,,,
+9090,'5492592958',5158,'XAUUSD SELL NOW  @ 1979  TP : 1974 TP : 1969  SL : 1985',XAUUSD,1979,,,,,1974,1969,,,,1985,Sell now
+9091,'5492592958',5159,'1879  Typing mistake',,1879,,,,,,,,,,,
+12189,'5492592958',481,'USD/CHF  Hit Stop loss    from now on - we will  have To Chose From Best Trades  3 : 4 max during the week  so we will have Higher risk per Trade  10 % ) and less quantity',USD/CHF,10,,,,,,,,,,,
+2223,'5492592958',2105,'XAUUSD buy now 1976.5 Tp @ 1983 Tp2 @ 1989  Sl @ 1971.550 pips)',XAUUSD,1976.5,,,,,1983,1989,,,,1971.550,Buy now
+6229,'5492592958',4468,'XAUUSD buy now 1976.5 Tp @ 1983 Tp2 @ 1989  Sl @ 1971.550 pips)',XAUUSD,1976.5,,,,,1983,1989,,,,1971.550,Buy now
+9094,'5492592958',5161,'USDCAD SELL LIMIT  @ 1.3530  TP : 1.3505 TP : 1.3460  SL : 1.3546',USDCAD,1.3530,,,,,1.3505,1.3460,,,,1.3546,Sell limit
+9095,'5492592958',5162,'XAUUSD SELL NOW  @ 1874.5  TP : 1870 TP : 1865  SL : 1878',XAUUSD,1874.5,,,,,1870,1865,,,,1878,Sell now
+9098,'5492592958',5163,'US30 SELL NOW   @ 33520  TP : 32839  SL : 33650',US30,33520,,,,,32839,,,,,33650,Sell now
+9099,'5492592958',5164,'Set Tp 1  TP : 33200',,,,,,,33200,,,,,,
+9103,'5492592958',5166,'US30 Hit SL SHIT  WILL SEND NEXT US30 SETUP SOON',US30,,,,,,,,,,,,
+9106,'5492592958',5168,'XAUUSD NEXT MOVE POSSIBLE   WAIT FOR CONFIRMATION',XAUUSD,,,,,,,,,,,,
+9107,'5492592958',5169,'USOIL XTIUSD) SELL LIMIT    @ 91.50  TP : 90.00 TP : 87.55  SL : 92.45',USOIL,91.50,,,,,90.00,87.55,,,,92.45,Sell limit
+9108,'5492592958',5170,'All broker have different OIL prices soo be careful my side price running 91.26 right now',,91.26,,,,,,,,,,,
+9111,'5492592958',5172,'XAUUSD SELL LIMIT   @ 1871 - 1873  TP : 1865 TP : 1855  SL : 1880',XAUUSD,1871,1873,,,,1865,1855,,,,1880,Sell limit
+9112,'5492592958',5173,'Set tp 1 - 1862   Inshallah it will fall',,,,,,,1862,,,,,,
+12199,'5492592958',489,'Sorry guys we correct this -  1.63450  100 PIP',,1.63450,,,,,,,,,,,
+9114,'5492592958',5175,'Add one more Sell   @ 1975',,1975,,,,,,,,,,,Sell
+9116,'5492592958',5176,'Not Hit SL if hit your change your broker don’t ask me again and again I’m not your broker',,,,,,,,,,,,,
+14855,'5492592958',4469,'Those who use telegram premium help me boost this so I can be posting stories',,,,,,,,,,,,,
+2793,'5492592958',2106,'USDMXN sell limit @ 17.462 tp @ 17.362 tp2 @ 17.248  SL @ 17.51553 pips)',USDMXN,17.462,,,,,17.362,17.248,,,,17.51553,Sell limit
+9135,'5492592958',5182,'USDMXN SELL LIMIT  @ 17.462  TP : 17.378 TP : 17.266  SL : 17.515',USDMXN,17.462,,,,,17.378,17.266,,,,17.515,Sell limit
+2794,'5492592958',2107,'SCALPING TRADE  NZDCHF buy now @ 0.5463 tp @ 0.5490 tp2 @ 0.5528  SL 2 0.545013 pips)',NZDCHF,0.5463,,,,,0.5490,0.5528,,,,,Buy now
+9136,'5492592958',5183,'NZDCHF BUY NOW   @ 0.5462  TP : 0.5490 TP : 0.5528  SL : 0.5450',NZDCHF,0.5462,,,,,0.5490,0.5528,,,,0.5450,Buy now
+2795,'5492592958',2108,'LONG TERM TRADE  US30 sell limit @ 33787 tp @ 33530 tp2 @ 33025  SL @ 33920',US30,33787,,,,,33530,33025,,,,33920,Sell limit
+2796,'5492592958',2109,'NZDCHF sl set 0.5445  Extend 5 pips just',NZDCHF,,,,,,,,,,,0.5445,
+9139,'5492592958',5185,'NZDCHF set SL @ 0.5445  Extend 5 pips just',NZDCHF,,,,,,,,,,,0.5445,
+14864,'5492592958',4477,'LONG TERM TRADE   EURUSD sell limit @ 1.05940 tp @ 1.05020 tp 2 @ 1.03100  Sl @ 1.06150 [ 19 PIPS ]',EURUSD,1.05940,,,,,1.05020,1.03100,,,,1.06150,Sell limit
+14865,'5492592958',4478,'CADJPY sell limit @ 110.770 tp @ 109.600 tp 2 @ 107.800  Sl @ 111.170',CADJPY,110.770,,,,,109.600,107.800,,,,111.170,Sell limit
+2797,'5492592958',2110,'GBPJPY sell limit @ 181.97 tp @ 181.42 tp2 @ 180.57  SL @ 182.3033 pips)',GBPJPY,181.97,,,,,181.42,180.57,,,,182.3033,Sell limit
+9140,'5492592958',5186,'GBPJPY SELL LIMIT  @ 181.97  TP : 181.45 TP : 180.62  SL : 182.30',GBPJPY,181.97,,,,,181.45,180.62,,,,182.30,Sell limit
+9144,'5492592958',5190,'NZDCHF Also Running In Profit But Market is Very Slow today',NZDCHF,,,,,,,,,,,,
+14868,'5492592958',4481,'CHFJPY Buy limit @ 163.080 tp @ 163.800 tp 2 @ 164.600  Sl @ 162.950 [ 13 pips ]',CHFJPY,163.080,,,,,163.800,164.600,,,,162.950,Buy limit
+14869,'5492592958',4482,'Sl move 5 pips more @ 162.900 Hold it',,,,,,,,,,,,162.900,
+12202,'5492592958',494,'dont risk to apply 10 %',,10,,,,,,,,,,,
+14871,'5492592958',4484,'Re_enter chfjpy with small lot 0.5% risk',CHFJPY,,,,,,,,,,,,
+12203,'5492592958',495,'!! We need more confirmation',,,,,,,,,,,,,
+12204,'5492592958',496,'we may enter after 1 hr',,,,,,,,,,,,,
+14872,'5492592958',4485,'Exit at entry move 30+ pips',,,,,,,,,,,,,
+2803,'5492592958',2118,'XAUUSD sell now @ 1920 tp @ 1913 tp2 @ 1904.5  SL @ 1925',XAUUSD,1920,,,,,1913,1904.5,,,,1925,Sell now
+2805,'5492592958',2120,'EURAUD sell now @ 1.6580 tp @ 1.6480 tp2 @ 1.6290  sl @ 1.6650',EURAUD,1.6580,,,,,1.6480,1.6290,,,,1.6650,Sell now
+2806,'5492592958',2121,'long term trade use risk managment',,,,,,,,,,,,,
+2807,'5492592958',2122,'EURUSD sell limit @ 1.0482 tp @ 1.0417 tp2 @ 1.0353  SL @ 1.051735 pips)',EURUSD,1.0482,,,,,1.0417,1.0353,,,,1.051735,Sell limit
+2808,'5492592958',2123,'XAUUSD sell now 1823 other limit @ 1825 tp @ 1814 tp2 @ 1804  SL @1830',XAUUSD,1823,1825,,,,1814,1804,,,,1830,Sell now
+2809,'5492592958',2124,'use same sl and tps and hold',,,,,,,,,,,,,
+9147,'5492592958',5195,'XAUUSD SELL NOW  @ 1823 - 1825  TP : 1819 TP : 1815 TP : 1810  SL : 1830',XAUUSD,1823,1825,,,,1819,1815,1810,,,1830,Sell now
+9148,'5492592958',5196,'EURAUD SELL NOW   @ 1.6580  TP :  1.6480 TP : 1.6290  SL : 1.6650',EURAUD,1.6580,,,,,1.6480,1.6290,,,,1.6650,Sell now
+9149,'5492592958',5197,'long term trade use risk managment',,,,,,,,,,,,,
+2810,'5492592958',2125,'USOIL sell limit @ 88.95 tp @ 87.20 tp2 @ 85.40  SL @ 89.90',USOIL,88.95,,,,,87.20,85.40,,,,89.90,Sell limit
+9150,'5492592958',5198,'XAUUSD SELL AGAIN   @ 1829  TP : 1818 TP : 1810  SL : 1836',XAUUSD,1829,,,,,1818,1810,,,,1836,Sell
+14873,'5492592958',4488,'XAUUSD sell now @ 1829 Tp @ 1821 Tp2 @ 1810  Sl @ 1834',XAUUSD,1829,,,,,1821,1810,,,,1834,Sell now
+14875,'5492592958',4489,'XAUUSD NEXT MOVE POSSIBLE  Still following bearish pattern our final target is 1809  lets see how market will react from our zoon',XAUUSD,1809,,,,,,,,,,,
+14876,'5492592958',4490,'EURCHF sell now @ 0.96450 Tp @ 0.96050 Tp 2 @ 0.95700  Sl @ 0.86750',EURCHF,0.96450,,,,,0.96050,0.95700,,,,0.86750,Sell now
+14877,'5492592958',4491,'CHFJPY Buy limit @ 162.365 tp @ 163.100 tp 2 @ 164.700  Sl @ 161.950',CHFJPY,162.365,,,,,163.100,164.700,,,,161.950,Buy limit
+14878,'5492592958',4492,'NZDJPY Buy now @ 88.560 tp @ 89.200 tp 2 @ 89.900  SL @ 88.350',NZDJPY,88.560,,,,,89.200,89.900,,,,88.350,Buy now
+14879,'5492592958',4493,'EURUSD sell limit @ 1.04850 other limit @2 1.04950 tp @ 1.04650 tp 2 @ 1.04350  Sl @ 1.05030',EURUSD,1.04850,1.04950,,,,1.04650,1.04350,,,,1.05030,Sell limit
+9152,'5492592958',5200,'EURUSD SELL LIMIT  @ 1.04850 - 1.04950  TP :  1.04650 TP :  1.04350  SL  1.05030',EURUSD,1.04850,1.04950,,,,1.04650,1.04350,,,,1.05030,Sell limit
+9153,'5492592958',5201,'EURCHF SELL NOW  @ 0.96450  TP : 0.96050 TP : 0.95700  SL :  0.86750',EURCHF,0.96450,,,,,0.96050,0.95700,,,,0.86750,Sell now
+9154,'5492592958',5202,'NZDJPY BUY NOW   @ 88.560  TP : 89.200 TP : 89.900  SL : 88.350',NZDJPY,88.560,,,,,89.200,89.900,,,,88.350,Buy now
+9155,'5492592958',5203,'CHFJPY BUY LIMIT   @ 162.365  TP : 163.100 TP : 164.700  SL : 161.950',CHFJPY,162.365,,,,,163.100,164.700,,,,161.950,Buy limit
+9156,'5492592958',5204,'USOIL SELL LIMIT  @ 88.95  TP : 87.50 TP : 85.80  SL : 89.90',USOIL,88.95,,,,,87.50,85.80,,,,89.90,Sell limit
+14882,'5492592958',4496,'US30 sell now @ 33430 Other limit @ 33450 tp @ 33330 tp 2 @ 33100  Sl @ 33510',US30,33430,33450,,,,33330,33100,,,,33510,Sell now
+14883,'5492592958',4497,'already near to 2nd limit so take directly with 2nd limit',,,,,,,,,,,,,
+9159,'5492592958',5206,'US30 SELL NOW  @ 33450  TP : 33330 TP : 33100  SL : 33510',US30,33450,,,,,33330,33100,,,,33510,Sell now
+9160,'5492592958',5207,'Set one more Buy Limit   @ 33465',,33465,,,,,,,,,,,Buy limit
+9161,'5492592958',5208,'SL Correction : 0.96750',,,,,,,,,,,,0.96750,
+9164,'5492592958',5211,'Hit SL 30-',,,,,,,,,,,,30,
+14885,'5492592958',4499,'GBPJPY Buy now @ 180.680 Tp @ open   Sl @ 180.550',GBPJPY,180.680,,,,,open,,,,,180.550,Buy now
+9165,'5492592958',5212,'GBPJPY BUY NOW   @ 180.680  Tp : open   SL : 180.550',GBPJPY,180.680,,,,,open,,,,,180.550,Buy now
+9166,'5492592958',5213,'If u wana add more Sell You can   Inshallah gold will fall',GOLD,,,,,,,,,,,,Sell
+9167,'5492592958',5214,'EURCHF SELL NOW AGAIN   @ 0.9669',EURCHF,0.9669,,,,,,,,,,,Sell now
+14887,'5492592958',4501,'GBPJPY BUY NOW @ 180.680 TP @ 181.00 TP 2 @ 181.850  sL @ 180.550  13 pips)',GBPJPY,180.680,,,,,181.00,181.850,,,,180.550,Buy now
+14888,'5492592958',4502,'100+ pips running   If you guys have take it send profit screen short @#GS_FXAdviser',,,,,,,,,,,,,
+9174,'5492592958',5219,'-2rr',,,,,,,,,,,,,
+9177,'5492592958',5221,'EURCHF also running on the way',EURCHF,,,,,,,,,,,,
+9178,'5492592958',5222,'Gold Same SL for both : 1936',GOLD,,,,,,,,,,,1936,
+9179,'5492592958',5223,'XAUUSD SELL AGAIN   @ 1829  TP : 1818 TP : 1810  SL : 1836  For All Trades)',XAUUSD,1829,,,,,1818,1810,,,,1836,Sell
+14896,'5492592958',4510,'XAUUSD sell again @ 1829 Tp @ 1822 Tp 2 @ 1811  Sl @ 1834',XAUUSD,1829,,,,,1822,1811,,,,1834,Sell
+14902,'5492592958',4516,'Exit near entry',,,,,,,,,,,,,
+9187,'5492592958',5229,'SL to entry',,,,,,,,,,,,,
+9190,'5492592958',5230,'GBPJPY Buy trade also 50+ pips move then hit breakeven',GBPJPY,,,,,,,,,,,,Buy
+2815,'5492592958',2129,'NAS100 buy now @ 14495 tp @ 14640 tp2 @ 14870  SL @ 14430',NAS100,14495,,,,,14640,14870,,,,14430,Buy now
+9191,'5492592958',5231,'NAS100 BUY NOW  @ 14495  TP : 14640 TP : 14870  SL : 14430',NAS100,14495,,,,,14640,14870,,,,14430,Buy now
+9192,'5492592958',5232,'Entry : 14480',,14480,,,,,,,,,,,
+2816,'5492592958',2130,'XAUUSD sell now @ 1920 tp @ 1913 tp2 @ 1904  SL @ 1924',XAUUSD,1920,,,,,1913,1904,,,,1924,Sell now
+9193,'5492592958',5233,'XAUUSD SELL NOW   @ 1920.5  TP : 1915 TP : 1904  SL : 192435 pips)',XAUUSD,1920.5,,,,,1915,1904,,,,192435,Sell now
+14906,'5492592958',4519,'XAUUSD sell now @ 1822.80 Tp @ 1818 Tp 2 @ 1810  Sl @ 1827',XAUUSD,1822.80,,,,,1818,1810,,,,1827,Sell now
+9197,'5492592958',5236,'Add more sell  SL shift at 1926',,,,,,,,,,,,1926,Sell
+9198,'5492592958',5237,'NAS100',NAS100,,,,,,,,,,,,
+14908,'5492592958',4521,'Booked profit in EURUSD',EURUSD,,,,,,,,,,,,
+14909,'5492592958',4522,'EURUSD Buy limit @ 1.04610 tp @ 1.04950 tp 2 @ 1.05800  SL @ 1.04470 [ 14 PIPS )',EURUSD,1.04610,,,,,1.04950,1.05800,,,,1.04470,Buy limit
+14910,'5492592958',4523,'AUDUSD Buy limit @ 0.63000 tp @ 0.64420 tp 2 @ 0.63950  Sl @ 0.62850',AUDUSD,0.63000,,,,,0.64420,0.63950,,,,0.62850,Buy limit
+14912,'5492592958',4525,'XAUUSD sell re_enter with mini risk',XAUUSD,,,,,,,,,,,,Sell
+14914,'5492592958',4527,'AUDUSD sell limit @ 0.63220 Tp @ 0.63000 Sl @ 0.63290',AUDUSD,0.63220,,,,,0.63000,,,,,0.63290,Sell limit
+9201,'5492592958',5240,'SL hit wait for other call',,,,,,,,,,,,,
+9202,'5492592958',5241,'XAUUSD BUY NOW  @ 1824 - 1823  TP : 1828 Tp :  1833  SL : 1818',XAUUSD,1824,1823,,,,1828,1833,,,,1818,Buy now
+12215,'5492592958',505,'Add Golden Target 2 : 0.64950 50 % Growth  200 PIP )',GOLD,0.64950,50,,,,,,,,,,
+9207,'5492592958',5243,'You all guys are selfish will give h big profit everyday   but you won’t give any reaction lol',,,,,,,,,,,,,
+2820,'5492592958',2134,'EURAUD better to close  It move 47+ pips b.e hit if anyone hold still then close it',EURAUD,,,,,,,,,,,,
+2821,'5492592958',2135,'XAUUSD buy limit @ 1820 tp @ 1830 tp2 @ 1850  SL @ 1815 50 pips)',XAUUSD,1820,,,,,1830,1850,,,,1815,Buy limit
+9208,'5492592958',5244,'XAUUSD BUY LIMIT   @ 1820  TP : 1830 TP : 1850  SL : 1814.5',XAUUSD,1820,,,,,1830,1850,,,,1814.5,Buy limit
+12216,'5492592958',506,'Just Add 10 PIP To Stop loss    1.05500 )',,10,1.05500,,,,,,,,,,
+12217,'5492592958',507,'Gratz   GBP/CAD Hit  Full Target   + 30 % Growth / 2410 PIP',GBP/CAD,30,,,,,,,,,,,
+9209,'5492592958',5245,'EURAUD better to close  It move 47+ pips b.e hit if anyone hold still then close it',EURAUD,,,,,,,,,,,,
+9210,'5492592958',5246,'Who didn’t renew his membership I’m going to remove them all right now',,,,,,,,,,,,,
+2822,'5492592958',2136,'XAUUSD take manually now',XAUUSD,,,,,,,,,,,,
+9211,'5492592958',5247,'XAUUSD Buy Manually now',XAUUSD,,,,,,,,,,,,Buy
+14915,'5492592958',4528,'XAUUSD Buy now @ 1818 Tp @ 1824 Tp 2 @ 1835  Sl @ 1814',XAUUSD,1818,,,,,1824,1835,,,,1814,Buy now
+9212,'5492592958',5248,'Set one more buy limit   @ 1917.5  SL UPDATE : 1913.5',,1917.5,,,,,,,,,,1913.5,Buy limit
+9213,'5492592958',5249,'NAS100 SELL NOW  @ 14655  TP : 14480 TP : 14235  SL : 14779',NAS100,14655,,,,,14480,14235,,,,14779,Sell now
+9215,'5492592958',5251,'NAS100 Seems bit Risky if don’t wana take more risk u can close it at Entry   If u wana take risk then u guys can hold',NAS100,,,,,,,,,,,,
+2824,'5492592958',2138,'Alhamdullilah recovered XAUUSD loss   We remaining in net profit of NASDAQ',NASDAQ,,,,,,,,,,,,
+9220,'5492592958',5253,'XAUUSD BUY SIGNAL HOLD TILL TOMORROW',XAUUSD,,,,,,,,,,,,Buy
+14923,'5492592958',4536,'XAUUSD buy now @ 1821 Other limit @ 1818 Tp @ 1827 Tp 2 @ 1842  Sl @ 1816',XAUUSD,1821,1818,,,,1827,1842,,,,1816,Buy now
+2826,'5492592958',2140,'XAUUSD buy limit @ 1819 tp @ 1826 tp2 @ 1836  sl @ 1815',XAUUSD,1819,,,,,1826,1836,,,,1815,Buy limit
+2827,'5492592958',2141,'XAUUSD sell limit @ 1822..8  tp @ 1818  sl @ 182522 pips)',XAUUSD,,,,,,1818,,,,,182522,Sell limit
+2828,'5492592958',2142,'If buy limit activated 1st then the sell limit will be invalid remember',,,,,,,,,,,,,Sell limit
+14927,'5492592958',4540,'USDMXN sell limit @ 18.150 tp @ 17.860 tp 2 @ 17.600  Sl @ 18.220',USDMXN,18.150,,,,,17.860,17.600,,,,18.220,Sell limit
+14928,'5492592958',4541,'XAUUSD NEXT MOVE POSSIBLE',XAUUSD,,,,,,,,,,,,
+14929,'5492592958',4542,'EURAUD Sell limit @ 1.65860 tp @ 1.65000 tp 2 @ 1.63400  Sl @ 1.64190',EURAUD,1.65860,,,,,1.65000,1.63400,,,,1.64190,Sell limit
+14930,'5492592958',4543,'Edited sl',,,,,,,,,,,,,
+9222,'5492592958',5255,'XAUUSD BUY LIMIT   @ 1819  TP : 1826 TP : 1836  SL : 1815',XAUUSD,1819,,,,,1826,1836,,,,1815,Buy limit
+9223,'5492592958',5256,'XAUUSD SELL LIMIT  @ 1822..8  TP : 1818  SL : 1825',XAUUSD,,,,,,1818,,,,,1825,Sell limit
+14932,'5492592958',4545,'AUDUSD adjust your trades-   set one buy limit at @ 0.63110 keep 2nd limit as well  Set sl @ 0.62900 for both  tps same',AUDUSD,0.63110,,,,,,,,,,0.62900,Buy limit
+2829,'5492592958',2143,'NZDCHF sell limit @ 0.5446 tp @ 0.5426 tp2 @ 0.5400  SL @ 0.5457',NZDCHF,0.5446,,,,,0.5426,0.5400,,,,0.5457,Sell limit
+2830,'5492592958',2144,'US30 sell limit @ 33230 tp @ 32944 tp2 @ 32542  SL @ 33415',US30,33230,,,,,32944,32542,,,,33415,Sell limit
+9228,'5492592958',5259,'NZDCHF SELL LIMIT   @ 0.5446  TP : 0.5430 TP : 0.5410  SL : 0.5457 11 pips)',NZDCHF,0.5446,,,,,0.5430,0.5410,,,,0.5457,Sell limit
+9229,'5492592958',5260,'US30 SELL LIMIT  @ 33230  TP : 33000 TP : 32600  SL : 33415',US30,33230,,,,,33000,32600,,,,33415,Sell limit
+9231,'5492592958',5262,'Keep hold and wait for updates',,,,,,,,,,,,,
+9232,'5492592958',5263,'SL to Entry and take Half profit',,,,,,,,,,,,,
+14937,'5492592958',4550,'EURAUD sell limit @ 1.65980 tp @ 1.65300 tp 2 @ 1.63500  Sl @ 1.66200',EURAUD,1.65980,,,,,1.65300,1.63500,,,,1.66200,Sell limit
+9233,'5492592958',5264,'EURAUD SELL LIMIT   @ 1.65980  TP : 1.65300 TP : 1.63500  SL : 1.66200',EURAUD,1.65980,,,,,1.65300,1.63500,,,,1.66200,Sell limit
+2833,'5492592958',2146,'XAUUSD smashing near to tp  #sniper_entries_always   Signal was posted in VIP channel only',XAUUSD,,,,,,,,,,,,
+14939,'5492592958',4552,'Xauusd enter manual',XAUUSD,,,,,,,,,,,,
+2834,'5492592958',2147,'XAUUSD buy enter now manually',XAUUSD,,,,,,,,,,,,Buy
+9234,'5492592958',5265,'XAUUSD BUY NOW   @ 1819 - 1818  TP : 1824 TP : 1830  SL : 1814.50',XAUUSD,1819,1818,,,,1824,1830,,,,1814.50,Buy now
+14940,'5492592958',4553,'XAUUSD Buy now @ 1818.50 Tp @ 1826 Tp 2 @ 1842  Sl @ 1815',XAUUSD,1818.50,,,,,1826,1842,,,,1815,Buy now
+9235,'5492592958',5266,'XAUUSD CHART SETUP',XAUUSD,,,,,,,,,,,,
+14942,'5492592958',4554,'Sl @ 1811',,,,,,,,,,,,1811,
+14941,'5492592958',4555,'XAUUSD Buy now @ 1813.50',XAUUSD,1813.50,,,,,,,,,,,Buy now
+9236,'5492592958',5267,'XAUUSD BUY NOW  @ 1913.50',XAUUSD,1913.50,,,,,,,,,,,Buy now
+14943,'5492592958',4556,'Tps edited',,,,,,,,,,,,,
+2835,'5492592958',2148,'XAUUSD buy now 1815 Tp @ 1824 Tp2 @ 1834  Sl @ 1810',XAUUSD,1815,,,,,1824,1834,,,,1810,Buy now
+9242,'5492592958',5271,'This setup is also 100% Confirmed but they just wana eat buyers Stopout that’s why we see aa small dip',,,,,,,,,,,,,Buy
+14948,'5492592958',4561,'XAUUSD Buy now @ 1818 Tp @ 1823 Tp 2 @ 1832  Sl @ 1812',XAUUSD,1818,,,,,1823,1832,,,,1812,Buy now
+14950,'5492592958',4562,'XAUUSD Be hit  Re_enter  from @ 1817 Use smaller lot now',XAUUSD,1817,,,,,,,,,,,
+14957,'5492592958',4569,'AUDNZD Buy @ 1.06750 tp @ 1.07050 tp 2 @ 1.07770  sl @ 1.06500',AUDNZD,1.06750,,,,,1.07050,1.07770,,,,1.06500,Buy
+14958,'5492592958',4570,'NZDCHF sell now @ 0.54450 tp @ 0.54200 tp 2 @ 0.53800  Sl @ 0.54550 {  10 pips }',NZDCHF,0.54450,,,,,0.54200,0.53800,,,,0.54550,Sell now
+14959,'5492592958',4571,'US30 Buy now @ 33050 other limit @ 32970 tp@ 33200 tp 2 @ 33450  Sl @ 33880',US30,33050,32970,,,,33200,33450,,,,33880,Buy now
+14961,'5492592958',4573,'take it now',,,,,,,,,,,,,
+9244,'5492592958',5273,'US30 BUY NOW  @ 33050 - 32970  TP : 33200 TP : 33450  SL : 33880',US30,33050,32970,,,,33200,33450,,,,33880,Buy now
+9246,'5492592958',5275,'NAS100 BUY NOW  @ 14715  TP : 14810 TP : 14925  SL : 14620',NAS100,14715,,,,,14810,14925,,,,14620,Buy now
+9248,'5492592958',5277,'AUDNZD BUY NOW  @ 1.06750  TP : 1.07050 TP : 1.07770  SL : 1.06500',AUDNZD,1.06750,,,,,1.07050,1.07770,,,,1.06500,Buy now
+9249,'5492592958',5278,'NZDCHF SELL NOW  @ 0.54450  TP : 0.54200 TP : 0.53800  SL : 0.54550 {  10 pips }',NZDCHF,0.54450,,,,,0.54200,0.53800,,,,0.54550,Sell now
+14964,'5492592958',4576,'This 2nd limit is not triggered so guys so that pips will not count',,,,,,,,,,,,,
+14965,'5492592958',4577,'Delete it',,,,,,,,,,,,,
+2838,'5492592958',2151,'XAUUSD sell limit @ 1826.5 tp @ 1820.5 tp2 @ 1814  SL @ 1829.5 30 pips)',XAUUSD,1826.5,,,,,1820.5,1814,,,,1829.5,Sell limit
+9256,'5492592958',5282,'XAUUSD SELL LIMIT  @ 1826.5 - 1828.5  TP : 1822 TP : 1817 TP : 1814  SL : 1830.5',XAUUSD,1826.5,1828.5,,,,1822,1817,1814,,,1830.5,Sell limit
+14969,'5492592958',4581,'XAUUSD Buy now @ 1822 Other limit @ 1820.60 Tp @ 1829 Tp 2 @ 1842  Sl @ 1916',XAUUSD,1822,1820.60,,,,1829,1842,,,,1916,Buy now
+14970,'5492592958',4582,'Sl @ 1816',,,,,,,,,,,,1816,
+14971,'5492592958',4583,'XAUUSD NEXT MOVE POSSIBLE  In NFP It Can Fly More Higher To collect liquidity that is created from sellers at the level of 1833  Any Ways Lets Go For Short Now ... NFP signal will be delivered after releasing the Data',XAUUSD,1833,,,,,,,,,,,Sell
+14972,'5492592958',4584,'EURUSD delete pending orders',EURUSD,,,,,,,,,,,,
+14973,'5492592958',4585,'AUDUSD delete pending orders !',AUDUSD,,,,,,,,,,,,
+9257,'5492592958',5283,'If any trade you guys holding set breakeven or close full  News in 08 minutes',,08,,,,,,,,,,,
+14975,'5492592958',4586,'XAUUSD Buy limit put at @ 1816  NFP Call   Sl set at @ 1808 for security of all trades . Tp will be the same as per our plan',XAUUSD,1816,,,,,,,,,,1808,Buy limit
+14978,'5492592958',4589,'XAUUSD all trade running now in 150+ pip close half trades ,XAUUSD,,,,,,,,,,,,
+9263,'5492592958',5289,'If Still it’s not active for you  Now it’s not valid anymore   If anyone took this manually Enjoy',,,,,,,,,,,,,
+14982,'5492592958',4592,'Anyone Holding gold trade booked profit in that',GOLD,,,,,,,,,,,,
+9264,'5492592958',5290,'XAUUSD BUY NOW',XAUUSD,,,,,,,,,,,,Buy now
+9265,'5492592958',5291,'TP : 1840  SL : 1828',,,,,,,1840,,,,,1828,
+12220,'5492592958',512,'EUR/USD Hit - 11 %',EUR/USD,11,,,,,,,,,,,
+2842,'5492592958',2155,'H',,,,,,,,,,,,,
+14984,'5492592958',4593,'#NZDUSD-H1 POSSIBLE SCENARIO   We Have confirmation In M-15 for short-term bearish & long term Bulish ... Waiting for Our Areas   ',NZDUSD,,,,,,,,,,,,
+14986,'5492592958',4594,'#AUDUSD-20M POSSIBLE SCENARIO   Short term Bulish move expected in lower time frames . We need more confirmations before taking any decision   ',AUDUSD,,,,,,,,,,,,
+14987,'5492592958',4595,'#GBPUSD-POSSIBLE SCENARIO   Both scenarios are possible,GBPUSD,,,,,,,,,,,,
+14985,'5492592958',4596,'#EURUSD-H2 POSSIBLE SCENARIO  EURUSD Totally expecting in Buy trend for this Week   ',EURUSD,,,,,,,,,,,,Buy
+14991,'5492592958',4598,'#XAUUSD-M5 POSISIBLE SCENARIO   Still We Have Bulish confirmation according to am-15 H-1 and D-1 time frames . If we will see good confirmation we can go long till 1900   ',XAUUSD,1900,,,,,,,,,,,
+9274,'5492592958',5294,'XAUUSD BUY @ 1845 - 1847  TP : 1855 TP : 1865  SL : 1841',XAUUSD,1845,1847,,,,1855,1865,,,,1841,Buy
+14992,'5492592958',4601,'Updating previous trades',,,,,,,,,,,,,
+14997,'5492592958',4605,'EURCHF Buy limit @ 0.95860 tp @ 0.96600 tp 2 @ 0.97960  sl @ 0.',EURCHF,0.95860,,,,,0.96600,0.97960,,,,,Buy limit
+5531,'717771085',1481,'1',,,,,,,,,,,,,
+5532,'717771085',1482,'EURCHF Buy limit @ 0.95860 tp @ 0.96600 tp 2 @ 0.97960  sl @ 0.95620  24 PIPS )',EURCHF,0.95860,,,,,0.96600,0.97960,,,,0.95620,Buy limit
+14998,'5492592958',4609,'Triggered',,,,,,,,,,,,,
+2850,'5492592958',2159,'EURCHF buy now @ 0.9581 tp @ 0.9626 tp2 @1 0.9686  SL @ 0.956021 pips)',EURCHF,0.9581,,,,,0.9626,0.9686,,,,0.956021,Buy now
+9279,'5492592958',5301,'EURCHF BUY NOW  @ 0.9581  TP : 0.9626 TP : 0.9686  SL : 0.9560',EURCHF,0.9581,,,,,0.9626,0.9686,,,,0.9560,Buy now
+12221,'5492592958',513,'We May Enter After  1hr : 30 Min',,30,,,,,,,,,,,
+14999,'5492592958',4610,'EURCHF take one buy more @ 0.95680  Sl is set at safe zoon because it needs today night to prepare its buy orders set sl @ 0.65560',EURCHF,0.95680,,,,,,,,,,sl,Buy
+9281,'5492592958',5302,'EURCHF take one buy more @ 0.95680  Sl is set at safe zoon because it needs today night to prepare its buy orders set sl @ 0.65560',EURCHF,0.95680,,,,,,,,,,sl,Buy
+9282,'5492592958',5303,'SL CORRECTION : 0.95560',,,,,,,,,,,,0.95560,
+15000,'5492592958',4612,'GBPJPY buy now @ 181.330 tp @ 182.700 tp 2 @ 185.600  Sl @ 180.950',GBPJPY,181.330,,,,,182.700,185.600,,,,180.950,Buy now
+5533,'717771085',1483,'GBPJPY buy now @ 181.330 tp @ 182.700 tp 2 @ 185.600  Sl @ 180.950',GBPJPY,181.330,,,,,182.700,185.600,,,,180.950,Buy now
+15001,'5492592958',4613,'Hold trade set sl now at @ 181.230 10 pips only',,,,,,,,,,,,181.230,
+9285,'5492592958',5306,'Close 80% tarde now hold only 20% for long term let’s see where gold gona stop',GOLD,,,,,,,,,,,,
+15003,'5492592958',4618,'Tp 2 edited',,,,,,,,,,,,,
+15004,'5492592958',4619,'EURCAD Buy limit @ 1.43630 Other limit @ 1.43560 tp @ 1.440502 tp 2 @ 1.44700  Sl @ 1.43450',EURCAD,1.43630,1.43560,,,,1.440502,1.44700,,,,1.43450,Buy limit
+12227,'5492592958',517,'EUR/JPY Hit Stop - we will cover it',EUR/JPY,,,,,,,,,,,,
+4624,'717771085',5545,'xx',,,,,,,,,,,,,
+4625,'717771085',5546,'test',,,,,,,,,,,,,
+4626,'717771085',5547,'test',,,,,,,,,,,,,
+4627,'717771085',5548,'bot test',,,,,,,,,,,,,
+4628,'717771085',5549,'aaa',,,,,,,,,,,,,
+4629,'717771085',5550,'kfa',,,,,,,,,,,,,
+4631,'717771085',5552,'bb',,,,,,,,,,,,,
+4632,'717771085',5553,'bot test',,,,,,,,,,,,,
+4633,'717771085',5554,'sry for tests guys ,,,,,,,,,,,,,
+4634,'717771085',5555,'thank',,,,,,,,,,,,,
+4636,'717771085',5559,'zz',,,,,,,,,,,,,
+15007,'5492592958',4637,'Edited tp 1',,,,,,,,,,,,,
+4637,'717771085',5560,'Edited tp 1',,,,,,,,,,,,,
+2852,'5492592958',2161,'XAUUSD buy limit @ 1848 tp @ 1857 tp2 @ 1871  SL @ 184350 pips)',XAUUSD,1848,,,,,1857,1871,,,,184350,Buy limit
+9288,'5492592958',5309,'XAUUSD BUY LIMIT   @ 1848  TP : 1857 TP : 1867  SL : 1843',XAUUSD,1848,,,,,1857,1867,,,,1843,Buy limit
+2853,'5492592958',2162,'GBPNZD sell limit @ 2.0405 tp @ 2.0313 tp @ 2.01576  SL 2 2.0460',GBPNZD,2.0405,,,,,2.0313,2.01576,,,,2.0460,Sell limit
+4638,'717771085',5562,'Zz',,,,,,,,,,,,,
+2854,'5492592958',2163,'EURUSD buy limit @ 1.0575 other buy limit @ 1.0545 tp @ 1.0690 tp @ 1.08545  SL @ 1.0510',EURUSD,1.0575,1.0545,,,,1.0690,1.08545,,,,1.0510,Buy limit
+9289,'5492592958',5310,'EURUSD BUY LIMIT   @ 1.0575 - 1.0545  TP : 1.0690 TP : 1.08545  SL : 1.0510',EURUSD,1.0575,1.0545,,,,1.0690,1.08545,,,,1.0510,Buy limit
+2855,'5492592958',2164,'AUDNZD buy limit @ 1.0636 tp @ 1.0673 tp2 @ 1.0709  SL @ 1.062016 pips)',AUDNZD,1.0636,,,,,1.0673,1.0709,,,,1.062016,Buy limit
+9290,'5492592958',5311,'GBPNZD SELL LIMIT  @ 2.0405  TP : 2.0313 TP : 2.01576  SL : 2.0460',GBPNZD,2.0405,,,,,2.0313,2.01576,,,,2.0460,Sell limit
+9291,'5492592958',5312,'AUDNZD BUY LIMIT  @ 1.0636  TP : 1.0673 TP : 1.0709  SL : 1.0620',AUDNZD,1.0636,,,,,1.0673,1.0709,,,,1.0620,Buy limit
+9292,'5492592958',5313,'XAUUSD BUY NOW  @ 1855 - 1854  TP : 1860 Tp : 1867  SL : 1851',XAUUSD,1855,1854,,,,1860,1867,,,,1851,Buy now
+9293,'5492592958',5314,'Small lot',,,,,,,,,,,,,

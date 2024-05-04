@@ -163,5 +163,7 @@ def process_file(file, output_path):
         final_list.append(dic)
 
     df=pd.DataFrame(final_list)
-    df.to_csv(f'processed/final_{datetime.datetime.now}',index=False)
+    print(df.head())
+    formatted_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    df.to_csv(f'processed/final_{formatted_datetime}.csv', index=False)
     return df, {'message': 'File processed successfully', 'output_path': output_path}
